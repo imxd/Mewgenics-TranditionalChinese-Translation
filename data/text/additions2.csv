@@ -1,6 +1,6 @@
 KEY,en,notes,sp,fr,de,it,pt-br,zh
 KEYWORD_DEHYDRATED_NAME,熱浪,,Ola de calor,Vague de chaleur,Hitzewelle,Ondata di calore,Onda de Calor,熱浪
-KEYWORD_DEHYDRATED_DESC,治療效果減少1。戰鬥後不恢復生命值。可用水緩解。,,Las curaciones se reducen en 1. No se cura tras los combates. Se puede mitigar con agua.,Les soins sont réduits de 1. Aucune régénération de PV après le combat. Peut être dissipé avec de l'eau.,Heilungen sind um 1 reduziert. Heilt sich nach dem Kampf nicht. Kann durch Wasser entfernt werden.,Le cure sono ridotte di 1. Non ci si cura dopo la battaglia. Può essere mitigato con l'acqua.,Curas são reduzidas em 1. Não se cura após a batalha. Pode ser mitigada com água.,治療效果減少1。戰鬥後不恢復生命值。可用水緩解。
+KEYWORD_DEHYDRATED_DESC,治療效果減少1。戰鬥後不恢復生命值。可用水緩解。,,Las curaciones se reducen en 1. No se cura tras los combates. Se puede mitigar con agua.,Les soins sont réduits de 1. Aucune régénération de PV après le combat. Peut être dissipé avec de l'eau.,Heilungen sind um 1 reduziert. Heilt sich nach dem Kampf nicht. Kann durch Wasser entfernt werden.,Le cure sono ridotte di 1. Non ci si cura dopo la battaglia. Può essere mitigato con l'acqua.,Curas são reduzidas em 1. Não se cura após a batalha. Pode ser mitigada com água.,治療效果減少1。 戰鬥後不恢復生命值。 可用水緩解。
 ,,,,,,,,
 DEBUG_TEST_GERMAN_WORDWRAPPING,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,"you dont need to localize this, this was just for testing stuff",WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,,WWW&nbsp;WWW[img:str]WWWW WWWWWWWWW,WWW&nbsp;WWW[img:str]WWWW WWWWWWWWW,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW
 ,,,,,,,,
@@ -19,7 +19,7 @@ TOOLTIP_HINT_UNCOMPLETABLE_QUEST_LABEL,有些東西丟失了...,,,Il manque quel
 TOOLTIP_HINT_UNCOMPLETABLE_QUEST_DESC,你當前沒有完成此任務的手段。,,,Vous ne pouvez pas effectuer cette quête pour le moment.,Du kannst diese Quest momentan nicht abschließen.,Al momento non hai i mezzi per completare questa missione.,Você não possui os meios para concluir esta missão neste momento.,你當前沒有完成此任務的手段。
 ,,,,,,,,
 EVENT_MYSTERIOUSTENT_PROMPT,進入商店,,,Accès boutique,Shop betreten,Entra nel negozio,Entrar na loja,進入商店
-EVENT_TRACY_REW3B,[i]“這裡，吃點東西。”[/i],,,"[i]«&nbsp;Tiens, de quoi manger.&nbsp;»[/i]","[i]„Hier, ein bisschen Futter.“[/i]","[i]""Ecco, prendi del cibo.""[/i]","[i]""Aqui, tome um pouco de comida.""[/i]",[i]“這裡，吃點東西。”[/i]
+EVENT_TRACY_REW3B,[i]“這裡，吃點東西。”[/i],,,"[i]«&nbsp;Tiens, de quoi manger.&nbsp;»[/i]","[i]„Hier, ein bisschen Futter.“[/i]","[i]""Ecco, prendi del cibo.""[/i]","[i]""Aqui, tome um pouco de comida.""[/i]",[i]“這裡，吃點東西。 ”[/i]
 ,,,,,,,,
 QEVENT_STACYMUTANT1_NAME,斯泰西實驗,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
 QEVENT_STACYMUTANT1_QUES1,"{catname} 發現了一台帶有多個按鈕的大型機器。
@@ -182,13 +182,13 @@ QEVENT_STACYMUTANT3_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT3_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT3_REW3_N,,,,,,,,
 QEVENT_STACYMUTANT3_ANSW4,不，謝謝,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
-QEVENT_STACYMUTANT3_REW4,機器注射了{catname}。{He}在全身被撕裂破碎時尖叫著！,,,La machine pique {catname}. {He} hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,"Die Maschine spritzt {catname} eine Flüssigkeit. {He} jault laut auf, als {his} gesamter Körper auseinandergerissen wird!",La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,"A máquina injeta algo em {catname}, que grita de dor enquanto seu corpo inteiro é dilacerado e quebrado!",機器注射了{catname}。{He}在全身被撕裂破碎時尖叫著！
+QEVENT_STACYMUTANT3_REW4,機器注射了{catname}。{He}在全身被撕裂破碎時尖叫著！,,,La machine pique {catname}. {He} hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,"Die Maschine spritzt {catname} eine Flüssigkeit. {He} jault laut auf, als {his} gesamter Körper auseinandergerissen wird!",La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,"A máquina injeta algo em {catname}, que grita de dor enquanto seu corpo inteiro é dilacerado e quebrado!",機器注射了{catname}。 {He}在全身被撕裂破碎時尖叫著！
 QEVENT_STACYMUTANT3_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT3_REW4_F,,,,,,,,
-QEVENT_STACYMUTANT3_REW4_N,機器注射了{catname}。他們在全身被撕裂破碎時尖叫著！,,,La machine pique {catname}. Iel hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,Die Maschine spritzt {catname} eine Flüssigkeit. {catname} jault vor Schmerzen laut auf!,La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,,機器注射了{catname}。他們在全身被撕裂破碎時尖叫著！
+QEVENT_STACYMUTANT3_REW4_N,機器注射了{catname}。他們在全身被撕裂破碎時尖叫著！,,,La machine pique {catname}. Iel hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,Die Maschine spritzt {catname} eine Flüssigkeit. {catname} jault vor Schmerzen laut auf!,La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,,機器注射了{catname}。 他們在全身被撕裂破碎時尖叫著！
 QEVENT_STACYMUTANT4_NAME,斯泰西實驗,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
 QEVENT_STACYMUTANT4_QUES,克隆體變異的最終階段到了。{catname}必須選擇一種頭部變異！,,,La phase finale de mutation du clone est là. {catname} doit choisir une mutation de tête&nbsp;!,"Dies ist die letzte Mutationsphase. {catname} muss eine Mutation für den Kopf wählen!
-",È iniziata la fase finale della mutazione del clone. {catname} deve scegliere una mutazione della testa!,A fase final da mutação do clone foi atingida. {catname} deve selecionar uma mutação de cabeça!,克隆體變異的最終階段到了。{catname}必須選擇一種頭部變異！
+",È iniziata la fase finale della mutazione del clone. {catname} deve scegliere una mutazione della testa!,A fase final da mutação do clone foi atingida. {catname} deve selecionar uma mutação de cabeça!,克隆體變異的最終階段到了。 {catname}必須選擇一種頭部變異！
 QEVENT_STACYMUTANT4_QUES_M,,,,,,,,
 QEVENT_STACYMUTANT4_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT4_QUES_N,,,,,,,,

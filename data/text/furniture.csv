@@ -3,7 +3,7 @@ FURNITURE_RARE_FORMAT,稀有 {furniturename},,{furniturename} inusual,{furniture
 FURNITURE_NAME_POOP,糞便,,Caca,Crotte,Häufchen,Cacca,Cocô,糞便
 FURNITURE_DESC_POOP,,,,,,,,
 FURNITURE_NAME_AUTOFEEDER,自動餵食器,"(cut, no need to localize)",Comedero automático,Autofeeder,,,,自動餵食器
-FURNITURE_DESC_AUTOFEEDER,此物品已從遊戲中移除，無任何效果。放在家裡只是佔用空間。,"(cut, no need to localize)","Este objeto ya no está en el juego, de modo que ocupa un espacio innecesario en la casa.",This item got removed from the game and has no effect. Its a waste of space to keep in your house.,,,,此物品已從遊戲中移除，無任何效果。放在家裡只是佔用空間。
+FURNITURE_DESC_AUTOFEEDER,此物品已從遊戲中移除，無任何效果。放在家裡只是佔用空間。,"(cut, no need to localize)","Este objeto ya no está en el juego, de modo que ocupa un espacio innecesario en la casa.",This item got removed from the game and has no effect. Its a waste of space to keep in your house.,,,,此物品已從遊戲中移除，無任何效果。 放在家裡只是佔用空間。
 FURNITURE_NAME_SPECIAL_FOODBOX,食物儲藏箱,,Caja para comida,Boîte de rangement de croquettes,Futterbox,Scatola per il cibo,Caixa de armazenamento de comida,食物儲藏箱
 FURNITURE_DESC_SPECIAL_FOODBOX,+40 最大食物,,+40 de máximo de comida,Nourriture max.&nbsp;+40,+40&nbsp;max. Futter,+40 Cibo Massimo,+40 de comida máx.,+40 最大食物
 FURNITURE_NAME_SPECIAL_COMFORTIDOL,舒適偶像,,Ídolo de la comodidad,Idole de Bien-être,Idol des Komforts,Idolo del Comfort,Ídolo de conforto,舒適偶像

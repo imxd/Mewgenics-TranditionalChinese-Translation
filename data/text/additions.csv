@@ -32,7 +32,7 @@ Riflette i proiettili. Le unità che la colpiscono vengono respinte indietro.
 Calpestamento.","Agressor corpo-a-corpo com empurrão
 Reflete projéteis. Unidades que atacam ou entram em contato são empurradas.
 Atropelamento.","近戰攻擊者，具有擊退效果。
-反射投射物。與其接觸的單位將被擊退。
+反射投射物。 與其接觸的單位將被擊退。
 踐踏。"
 EABILITY_BIRTH_NAME,出生,,Nacimiento,Naissance,Gebären,Nascita,Nascimento,出生
 ,,,,,,,,
@@ -185,8 +185,8 @@ EABILITY_FLESHLAD_UPPERCUT_DESC,"擊打一個單位，將其擊退3格並造成�
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Colpisci un'unità, respingendola indietro di 3 caselle e infliggendole Livido.
 [s:.7](Lanciabile una volta per turno.)[/s]","Soque uma unidade, empurrando-a 3 espaços para trás e aplicando contusão.
 [s:.7](Um lançamento por turno.)[/s]","擊打一個單位，將其擊退3格並造成瘀傷。
-[s:.7](每回合可施放一次。)[/s]"
-FAMILIAR_PHANTOMMASK_DESC,無敵。攻擊它會將其直線擊退。它會對被擊中的單位造成5點傷害。,same as OBJECT_PETROCK_DESC but with the Invulnerable mention added to the beginning,Invulnerable. Se desplaza hacia delante en línea recta cuando la atacan. Inflige 5 de daño a las unidades que golpea.,Invulnérable. L'attaquer le projette en ligne droite. Inflige 5&nbsp;dégâts aux unités qu'il touche.,"Unverwundbar. Greif ihn an, um ihn in einer geraden Linie nach vorn zu schleudern. Verursacht 5&nbsp;Schaden bei Einheiten, die er trifft.",Invulnerabile. Attaccala per proiettarla in avanti in linea retta. Infligge 5 di danno alle unità che colpisce.,Invulnerável. Ataque-a para empurrá-la para frente em linha reta. Causa 5 de dano nas unidades que forem acertadas.,無敵。攻擊它會將其直線擊退。它會對被擊中的單位造成5點傷害。
+[s:.7](每回合可施放一次。 )[/s]"
+FAMILIAR_PHANTOMMASK_DESC,無敵。攻擊它會將其直線擊退。它會對被擊中的單位造成5點傷害。,same as OBJECT_PETROCK_DESC but with the Invulnerable mention added to the beginning,Invulnerable. Se desplaza hacia delante en línea recta cuando la atacan. Inflige 5 de daño a las unidades que golpea.,Invulnérable. L'attaquer le projette en ligne droite. Inflige 5&nbsp;dégâts aux unités qu'il touche.,"Unverwundbar. Greif ihn an, um ihn in einer geraden Linie nach vorn zu schleudern. Verursacht 5&nbsp;Schaden bei Einheiten, die er trifft.",Invulnerabile. Attaccala per proiettarla in avanti in linea retta. Infligge 5 di danno alle unità che colpisce.,Invulnerável. Ataque-a para empurrá-la para frente em linha reta. Causa 5 de dano nas unidades que forem acertadas.,無敵。 攻擊它會將其直線擊退。 它會對被擊中的單位造成5點傷害。
 FAMILIAR_FLY_STEEL_DESC,無敵。,,Invulnerable.,Invulnérable.,Unverwundbar.,Invulnerabile.,Invulnerabilidade.,無敵。
 FAMILIAR_FLESHLAD_DESC,"每次受到傷害時，每回合獲得額外攻擊一次。
 在回合結束時獲得速度。",same as ENEMY_FLESHLAD_DESC but without the first sentence about how it attacks,"Obtiene un ataque extra por turno cada vez que sufre daño.
@@ -221,7 +221,7 @@ Die verbleibenden Katzen fühlen sich stärker. Eine von ihnen durchsucht zöger
 
 I gatti rimasti si sentono rinvigoriti, e uno di loro tira via il cadavere di {catname} a malincuore, recuperando le parti ancora utili.","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado.
 
-Os gatos restantes se sentem fortalecidos, e um deles relutantemente puxa o corpo de {catname}, recuperando-o para salvar suas partes úteis.","{Catname}躺在祭壇頂端被獻祭。祭壇感到滿意。
+Os gatos restantes se sentem fortalecidos, e um deles relutantemente puxa o corpo de {catname}, recuperando-o para salvar suas partes úteis.","{Catname}躺在祭壇頂端被獻祭。 祭壇感到滿意。
 
 剩下的貓們感到力量增強，其中一隻勉強拉扯著{catname}的屍體，回收有用的部分。"
 QEVENT_MEATALTAR_REW2B_M,,,,,,,,
@@ -241,7 +241,7 @@ Die verbleibenden Katzen fühlen sich großartig!
 
 Gli altri gatti però si sentono alla grande!","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado.
 
-Os gatos restantes estão se sentindo ótimos!","{Catname}躺在祭壇頂端被獻祭。祭壇感到滿意。
+Os gatos restantes estão se sentindo ótimos!","{Catname}躺在祭壇頂端被獻祭。 祭壇感到滿意。
 
 剩下的貓們感覺非常好！"
 QEVENT_MEATALTAR_REW3B_M,,,,,,,,
