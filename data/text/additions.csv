@@ -1,6 +1,6 @@
 KEY,en,notes,sp,fr,de,it,pt-br,zh
-CURRENT_LANGUAGE_NAME,英文,"put ""espanol"" in the spanish column, ""francois"" in the french one, etc. Limited text box space so abbreviate if necessary",Español,Français,Deutsch,Italiano,Português (Brasil),英文
-CURRENT_LANGUAGE_SHIPPABLE,是,"put ""yes"" if the language is shippable and ""no"" if its not ready yet. this is not displayed, just used to determine if the language should show in the UI selector",yes,yes,yes,yes,yes,是
+CURRENT_LANGUAGE_NAME,英文,"put ""espanol"" in the spanish column, ""francois"" in the french one, etc. Limited text box space so abbreviate if necessary",Español,Français,Deutsch,Italiano,Português (Brasil),繁體中文
+CURRENT_LANGUAGE_SHIPPABLE,是,"put ""yes"" if the language is shippable and ""no"" if its not ready yet. this is not displayed, just used to determine if the language should show in the UI selector",yes,yes,yes,yes,yes,yes
 ,,,,,,,,
 SONG_UNLOCK_CREDITS_1,“Get in the Cage” 現在已加入電台播放列表！,,¡Se ha añadido «Get in the Cage» a la lista de la radio!,«&nbsp;L'entrée en cage&nbsp;» est dispo dans la liste de lecture radio&nbsp;!,„Get in the Cage“ kann jetzt im Radio laufen!,"""Get in the Cage"" è ora nella playlist della radio!","""Get in the Cage"" foi adicionada à lista de reprodução de rádio!",“Get in the Cage” 現在已加入電台播放列表！
 SONG_UNLOCK_CREDITS_2,“Future Meets the Past” 現在已加入電台播放列表！,,¡Se ha añadido «Future Meets the Past» a la lista de la radio!,«&nbsp;Le futur face au passé&nbsp;» est dispo dans la liste de lecture radio&nbsp;!,„Future Meets the Past“ kann jetzt im Radio laufen!,"""Future Meets the Past"" è ora nella playlist della radio!","""Future Meets the Past"" foi adicionada à lista de reprodução de rádio!",“Future Meets the Past” 現在已加入電台播放列表！
