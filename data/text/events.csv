@@ -3047,15 +3047,15 @@ Você deseja usar a força bruta [img:str]
 ou a inteligência [img:int] para passar por ele?
 
 Confira seus atributos
-para ver as chances de sucesso!","布奇擋住了你的去路！
+para ver as chances de sucesso!","Butch擋住了你的去路！
 
 你應該用蠻力 [img:str]
 還是用智慧 [img:int] 過去？
 
 檢視你的屬性
 以了解成功的機率！"
-EVENT_BUTCHTUTORIAL_ATTACK_ANSW,攻擊布奇,,Atacar a Butch,Attaquer Butch,Butch angreifen,Attacca Butch,Atacar Butch,攻擊布奇
-EVENT_BUTCHTUTORIAL_OUTSMART_ANSW,智取布奇,,Engañar a Butch,Se montrer plus rusé que lui,Butch überlisten,Supera Butch in astuzia,Enganar Butch,智取布奇
+EVENT_BUTCHTUTORIAL_ATTACK_ANSW,攻擊布奇,,Atacar a Butch,Attaquer Butch,Butch angreifen,Attacca Butch,Atacar Butch,攻擊Butch
+EVENT_BUTCHTUTORIAL_OUTSMART_ANSW,智取布奇,,Engañar a Butch,Se montrer plus rusé que lui,Butch überlisten,Supera Butch in astuzia,Enganar Butch,智取Butch
 EVENT_BUTCHTUTORIAL_REW1,"{catname} 的拳頭完全落空，狠狠地砸到了地上！
 
 [i]“你只是在試圖打我時就把爪子弄斷了！你的 [img:str] 太低了，為什麼你會選擇那個選項？”[/i]",,"El puñetazo de {catname} no acierta ¡y se da de bruces contra el suelo!
@@ -3088,7 +3088,7 @@ EVENT_BUTCHTUTORIAL_REW2,"{catname} 聰明地指向布奇身後，分散了他�
 
 [i]„Na du bist aber ein cleveres Kätzchen! Du hast Glück, dass deine [img:int] so hoch ist, sonst hätte ich dich zu Brei gehauen!“[/i]",,"{catname} aponta astutamente para trás de Butch, distraindo-o.
 
-[i]""Ora, ora, a esperteza em pessoa! Você tem sorte de sua [img:int] ser tão alta, ou então estaria mastigando pedras!""[/i]","{catname} 聰明地指向布奇身後，分散了他的注意力。
+[i]""Ora, ora, a esperteza em pessoa! Você tem sorte de sua [img:int] ser tão alta, ou então estaria mastigando pedras!""[/i]","{catname} 聰明地指向Butch身後，分散了他的注意力。
 
 [i]“你好呀，花裡胡哨的先生！你真幸運你的 [img:int] 這麼高，否則你就得啃石頭了！”[/i]"
 EVENT_BUTCHTUTORIAL_REW2_M,,,,,,"{catname} indica scaltramente dietro Butch, distraendolo.
@@ -3100,7 +3100,7 @@ EVENT_BUTCHTUTORIAL_REW2_F,,,,,,"{catname} indica scaltramente dietro Butch, dis
 EVENT_BUTCHTUTORIAL_REW2_N,,,,,,"{catname} indica scaltramente dietro Butch, distraendolo.
 
 [i]""Oh, ma guarda che furbizia! La tua fortuna è che hai un'[img:int] davvero alta, altrimenti ora staresti sgranocchiando rocce!""[/i]",,
-EVENT_BUTCH_NAME,布奇,,Butch,Butch,Butch,Butch,Butch,布奇
+EVENT_BUTCH_NAME,布奇,,Butch,Butch,Butch,Butch,Butch,Butch
 EVENT_BUTCH_QUES,[i]“好了，小子。什麼最好？傷害還是防護？”[/i],,"«Vale, colega. ¿Qué es mejor, daño o protección?».","[i]«&nbsp;Bon, la bleusaille. C'est quoi le mieux&nbsp;? Faire des dégâts ou se protéger&nbsp;?&nbsp;»[/i]","[i]„Na gut, du Knilch. Was ist besser? Angriff oder Verteidigung?“[/i]","[i]""Va bene, scricciolo. Cos'è meglio, danno o protezione?""[/i]","[i]""Ok, jovem. O que é melhor? Dano ou proteção?""[/i]",[i]“好了，小子。 什麼最好？傷害還是防護？”[/i]
 EVENT_BUTCH_REW1,"[i]“是啊，我懂你。那種先開火，後提問的貓，對吧？
 
@@ -3265,7 +3265,7 @@ EVENT_DRBEANIES2_REW1,[i]“成功了！”[/i],,«¡Ha funcionado!».,[i]«&nbs
 EVENT_DRBEANIES2_REW2,[i]“全力以赴！醫生來了！”[/i],,«¡A toda máquina! Ya ha llegado el doctor».,[i]«&nbsp;Puissance maximale&nbsp;! Je suis dans la place&nbsp;!&nbsp;»[/i],[i]„Volle Kraft voraus! Der Doktor ist da!“[/i],"[i]""A pieno regime! Il dottore è arrivato!""[/i]","[i]""Potência máxima! O doutor chegou!""[/i]",[i]“全力以赴！醫生來了！”[/i]
 EVENT_DRBEANIES2_REW3,[i]“不！等等！你為什麼要我那樣做？”[/i],,"«¡No, espera! ¿Por qué me has dicho que hiciera eso?».",[i]«&nbsp;Non&nbsp;! Attends&nbsp;! Pourquoi tu m'as dit de faire ça&nbsp;?&nbsp;»[/i],[i]„Nein! Warte! Warum hast du mir das gesagt?“[/i],"[i]""No! Aspetta! Perché mi hai detto di farlo?""[/i]","[i]""Não! Espere! Por que você me disse para fazer isso?""[/i]",[i]“不！等等！你為什麼要我那樣做？”[/i]
 EVENT_DRBEANIES2_REW4,[i]“哎呀…”[/i],,«Ups...».,[i]«&nbsp;Oups...&nbsp;»[/i],[i]„Ups&nbsp;…“[/i],"[i]""Oops...""[/i]","[i]""Oops…""[/i]",[i]“哎呀…”[/i]
-EVENT_FRANK_NAME,弗蘭克,,Frank,Frank,Frank,Frank,Frank,弗蘭克
+EVENT_FRANK_NAME,弗蘭克,,Frank,Frank,Frank,Frank,Frank,Frank
 EVENT_FRANK_QUES,"[i]“好！你！哪個更好？
 
 鼻屎？還是屎！”[/i]",,"«¡Eh, tú! ¿Qué es mejor?
@@ -3340,7 +3340,7 @@ Vinci il gioco di Frank!""[/i]","[i]""Cocô é o melhor porque seu bumbum é a m
 
 Você venceu o jogo do Frank!""[/i]","[i]“屎是最棒的，因為你的屁股是它們的媽媽！
 
-你贏了弗蘭克的遊戲！”[/i]"
+你贏了Frank的遊戲！”[/i]"
 EVENT_FRANK2_QUES,"[i]“打賭你永遠猜不到哪個更好…
 
 比比還是菲比？”[/i]",,"«Seguro que no adivinas qué es mejor...
@@ -3400,7 +3400,7 @@ Ecco denaro di Frank...""[/i]","[i]""Sim! Feebis é o certo!
 
 Aqui está o dinheiro do Frank…""[/i]","[i]“沒錯！菲比才是正確的！
 
-這是弗蘭克的錢……”[/i]"
+這是Frank的錢……”[/i]"
 EVENT_FRANK2_REW4,"[i]“弗蘭克覺得你能讀懂我們的腦子！
 
 你贏得大獎！”[/i]",,"«¡Frank cree que lees los sesos!
@@ -3413,10 +3413,10 @@ Du gewinnst großen Preis!“[/i]","[i]""Frank pensa tu leggi nostro cervello!
 
 Tu vinci gran premio!""[/i]","[i]""Frank acha que você está lendo a mente dele!
 
-Você ganhou o grande prêmio!""[/i]","[i]“弗蘭克覺得你能讀懂我們的腦子！
+Você ganhou o grande prêmio!""[/i]","[i]“Frank覺得你能讀懂我們的腦子！
 
 你贏得大獎！”[/i]"
-EVENT_TINK_NAME,丁克,,Tink,Tink,Tink,Tink,Tink,丁克
+EVENT_TINK_NAME,丁克,,Tink,Tink,Tink,Tink,Tink,Tink
 EVENT_TINK_QUES,"[i]“好，醜八怪。回答我這個…哪個更好？
 
 跺腳還是旋轉？”[/i]",,"«Oye, adefesio, respóndeme a esto: ¿qué es mejor?
@@ -3555,7 +3555,7 @@ Aqui, não se mova""[/i]","[i]“你知道比化妝更好嗎？注射豐唇！
 來，別動…”[/i]"
 EVENT_TINK2_REW3,[i]“那你去讀你那醜陋的圖書館女士的書吧！”[/i],,"«Bueno, pues vete a leer, rata de biblioteca inmunda».","[i]«&nbsp;Bah dans cas, va lire. Ignoble rat de bibliothèque&nbsp;!&nbsp;»[/i]","[i]„Dann geh halt lesen, du hässliche Leseratte!“[/i]","[i]""Beh, allora vai a leggere, racchia di biblioteca che non sei altra!""[/i]","[i]""Então vá ler, sua bibliotecária feiosa!""[/i]",[i]“那你去讀你那醜陋的圖書館女士的書吧！”[/i]
 EVENT_TINK2_REW4,[i]“嗯，我真希望那是一本教你如何修復你那臉的書，姐妹…”[/i],,"«Pues espero que sea un libro sobre cómo arreglarte ese careto, porque vaya cuadro, chica».","[i]«&nbsp;Eh bien, j'espère, mon petit, que c'est un livre pour t'aider à arranger ta sale tronche...&nbsp;»[/i]","[i]„Ich hoffe nur, dass in dem Buch steht, wie du was auch immer in deinem Gesicht vor sich geht reparieren kannst, Schwester&nbsp;…“[/i]","[i]""Beh, spero davvero sia un libro su come sistemare quel brutto muso che ti ritrovi, sorella...""[/i]","[i]""Bem, espero que seja um livro sobre como consertar essa sua cara toda acabada, irmãzinha...""[/i]",[i]“嗯，我真希望那是一本教你如何修復你那臉的書，姐妹…”[/i]
-EVENT_TRACY_NAME,特蕾西,,Tracy,Tracy,Tracy,Tracy,Tracy,特蕾西
+EVENT_TRACY_NAME,特蕾西,,Tracy,Tracy,Tracy,Tracy,Tracy,Tracy
 EVENT_TRACY_QUES,"[i]“是啊，我有些東西。你願意捐多少？
 
 都是為了好 cause…”[/i]",,"«Sí, tengo unas cuantas cosas. ¿Cuánto quieres donar?
@@ -16088,7 +16088,7 @@ Un brivido attraversa la spina dorsale di {catname}...
 
 Um arrepio percorre a espinha de {catname}...
 
-[i]Como isso é possível?[/i]","這具屍體看起來像布奇？？
+[i]Como isso é possível?[/i]","這具屍體看起來像Butch？？
 
 一陣寒意順著 {catname} 的脊樑骨蔓延開來……
 
@@ -22251,7 +22251,7 @@ Recuerda que el Dr. Beanies mencionó algo acerca de esto.","{catname} se trouve
 
 {catname} se lembra do Dr. Beanies ter mencionado algo sobre isso.","一台奇怪的機器矗立在 {catname} 面前。
 
-{catname} 記得比尼斯博士提到過這東西。"
+{catname} 記得Dr. Beanies提到過這東西。"
 QEVENT_BROKENTIMEMACHINE_QUES_M,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_QUES_F,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_QUES_N,,,,,,,,
@@ -22269,7 +22269,7 @@ Cree que el Dr. Beanies sabrá qué hacer con ella.","{catname} extrait une Cryo
 
 {catname} acredita que o Dr. Beanies deve saber o que fazer com ela.","{catname} 從時間機器中取出一個空的冷凍時間艙。
 
-{catname} 認為比尼斯博士應該知道怎麼用它。"
+{catname} 認為Dr. Beanies應該知道怎麼用它。"
 QEVENT_BROKENTIMEMACHINE_REW1_M,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_REW1_F,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_REW1_N,,,,,,,,
@@ -22287,7 +22287,7 @@ Piensa que tal vez el Dr. Beanies sepa cómo arreglarla.","{catname} examine la 
 
 {catname} acha que o Dr. Beanies talvez saiba como consertá-la.","{catname} 檢查機器。 它似乎沒有工作。
 
-{catname} 覺得比尼斯博士或許知道怎麼修理它。"
+{catname} 覺得Dr. Beanies或許知道怎麼修理它。"
 QEVENT_BROKENTIMEMACHINE_REW2_M,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_REW2_F,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_REW2_N,,,,,,,,

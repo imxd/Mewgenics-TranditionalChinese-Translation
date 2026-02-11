@@ -630,23 +630,23 @@ BOSS_DINOCOUPLE_NAME,恐龍愛好者,,Dinoamantes,Amoureux de dinos,Dinoliebhabe
 BOSS_LIGHTNINGELEMENTAL_NAME,扎法瑟,,Matahauser,Zapphauser,Zapphauser,Zapphauser,Zapphauser,扎法瑟
 BOSS_DRMANGLER_NAME,曼格勒博士,,Dr. Mangala,Dr Estropieur,Dr. Mängel,Dottor Mangler,Dr. Mangler,曼格勒博士
 BOSS_THEBLOAT_NAME,膨脹者,,La Pústula,Le Bouffi,Der Klops,La Pustola,A Bolha,膨脹者
-BOSS_GUILLOTINA_1_NAME,斷頭台,,Guillotina,Guillotina,Guillotina,Guillotina,Guilhotina,斷頭台
+BOSS_GUILLOTINA_1_NAME,斷頭台,,Guillotina,Guillotina,Guillotina,Guillotina,Guilhotina,Guillotina
 BOSS_GUILLOTINA_1_QUOTE_1,我想讓你進入我！,,¡MÉTETE DENTRO DE MÍ!,JE TE VEUX EN MOI&nbsp;!,ICH WILL DICH IN MIR!,TI VOGLIO DENTRO DI ME!,EU QUERO VOCÊ DENTRO DE MIM!,我想讓你進入我！
 BOSS_GUILLOTINA_1_QUOTE_2,嗯嗯，貓咪！,,"Mmm, un minino.","Mmmm, un chaton&nbsp;!","Hmmm, Muschis!","Mmmmm, un micetto!",Mmmmm gatinho!,嗯嗯，貓咪！
 BOSS_GUILLOTINA_1_QUOTE_3,來媽媽這裡！,,¡Ven con mamaíta!,Viens voir maman&nbsp;!,Kommt zu Mama!,Vieni da mamma!,Vem com a mamãe!,來媽媽這裡！
 BOSS_GUILLOTINA_1_QUOTE_4,今晚的選單看起來全是貓咪！,,¡Esta noche cenamos gatitos en pepitoria!,Les chats sont au menu ce soir&nbsp;!,Heute gibt‘s Muschi zum Abendessen!,Sembra che stasera ci siano dei mici sul menù!,Parece que há gatinhos no cardápio hoje!,今晚的選單看起來全是貓咪！
-BOSS_GUILLOTINA_2_NAME,斷頭台,,Guillotina,Guillotina,Guillotina,Guillotina,Guilhotina,斷頭台
+BOSS_GUILLOTINA_2_NAME,斷頭台,,Guillotina,Guillotina,Guillotina,Guillotina,Guilhotina,Guillotina
 BOSS_GUILLOTINA_2_QUOTE_1,準備製造麻煩！而且要雙倍！,,Quiero un gato... ¡partido por la mitad!,Préparez-vous au chaos&nbsp;! Un double chaos&nbsp;!,Jetzt gibt‘s Ärger! Und es kommt noch härter!,Aspettati guai! E poi raddoppiali!,Prepare-se para a encrenca! Encrenca em dobro!,準備製造麻煩！而且要雙倍！
 BOSS_GUILLOTINA_2_QUOTE_2,頭對尾！？,,¡De las patas a la cabeza!,Pile ou face&nbsp;?!,Kopf oder Zahl?!,Testa o croce?!,Cara ou coroa?!,頭對尾！？
 BOSS_GUILLOTINA_2_QUOTE_3,是時候聯合攻擊這些貓咪了！,,¡A esos misinos se les va a caer el pelo!,Ils vont y laisser leur tête&nbsp;!,"Zeit, diese Muschis richtig durchzunudeln!",È ora di fare a pezzi un po' di mici!,Hora de acabar com esses gatinhos em equipe!,是時候聯合攻擊這些貓咪了！
-BOSS_GUILLOTINA_3_NAME,斷頭台,,Guillotina,Guillotina,Guillotina,Guillotina,Guilhotina,斷頭台
+BOSS_GUILLOTINA_3_NAME,斷頭台,,Guillotina,Guillotina,Guillotina,Guillotina,Guilhotina,Guillotina
 BOSS_GUILLOTINA_3_QUOTE_1,[a:shake]*飛蟲嗡嗡*[/a],,[a:shake]Bzzzzzz...[/a],[a:shake]*bourdonnement de mouches*[/a],[a:shake]*Fliegensummen*[/a],[a:shake]*mosche che ronzano*[/a],[a:shake]*moscas voando*[/a],[a:shake]*飛蟲嗡嗡*[/a]
 BOSS_GUILLOTINA_3_QUOTE_2,[a:shake]*吱吱聲和咕嚕聲*[/s],,"[a:shake]Plof, plof, plof... Glu, glu.[/s]",[a:shake]*grincements et gargouillis*[/s],[a:shake]*platschen und gurgeln*[/s],[a:shake]*schizzi e gorgoglii*[/s],[a:shake]*contorcendo e gorgolejando*[/s],[a:shake]*吱吱聲和咕嚕聲*[/s]
 BOSS_GUILLOTINA_3_QUOTE_3,[a:shake]*肚子咕咕叫*[/s],,"[a:shake]Grrrrrr, grrrrr.[/s]",[a:shake]*ventre qui gargouille*[/s],[a:shake]*Magenknurren*[/s],[a:shake]*stomaco che brontola*[/s],[a:shake]*estômago roncando*[/s],[a:shake]*肚子咕咕叫*[/s]
-BOSS_PYROPHINA_NAME,火菲娜,,Pyrophina,Pyrophina,Pyrophina,Pyrophina,Pyrophina,火菲娜
+BOSS_PYROPHINA_NAME,火菲娜,,Pyrophina,Pyrophina,Pyrophina,Pyrophina,Pyrophina,Pyrophina
 BOSS_PYROPHINA_QUOTE_1,[a:shake]RRRAAAAAHHHH![/a],,[a:shake]¡AAARGH![/a],[a:shake]RRRAAAAAHHHH&nbsp;![/a],[a:shake]RRRAAAAAHHHH![/a],[a:shake]RRRAAAAAHHHH![/a],[a:shake]RRRAAAAAHHHH![/a],[a:shake]RRRAAAAAHHHH![/a]
 BOSS_PYROPHINA_QUOTE_2,[a:shake]GGGRRRRRAAAAAAAGGAAA![/a],,[a:shake]¡GRRRRRAAAARRRGH![/a],[a:shake]GGGRRRRRAAAAAAAGGAAA&nbsp;![/a],[a:shake]GGGRRRRRAAAAAAAGGAAA![/a],[a:shake]GGGRRRRRAAAAAAAGGAAA![/a],[a:shake]GGGRRRRRAAAAAAAGGAAA![/a],[a:shake]GGGRRRRRAAAAAAAGGAAA![/a]
-BOSS_ZARATANA_NAME,扎拉塔納,,Zaratana,Zaratana,Zaratana,Zaratana,Zaratana,扎拉塔納
+BOSS_ZARATANA_NAME,扎拉塔納,,Zaratana,Zaratana,Zaratana,Zaratana,Zaratana,Zaratana
 BOSS_ZARATANA_QUOTE_1,[a:shake]咕嚕咕嚕！[/a],,"[a:shake]¡GRRRR, GRRRRR![/a]",[a:shake]*GROGNE*[/a],[a:shake]GRUMMEL GRUMMEL![/a],[a:shake]GRUMBLE GRUMBLE![/a],[a:shake]RESMUNGO RESMUNGO![/a],[a:shake]咕嚕咕嚕！[/a]
 BOSS_ZARATANA_QUOTE_2,[a:shake]咕嚕，哼哼[/s],,"[a:shake]Grrrr, burp.[/s]","[a:shake]GRAH, SNIFF[/s]","[a:shake]GRUNZ, PRUST[/s]","[a:shake]GRUNT, SNORT[/s]","[a:shake]GRUNHIDO, BUFO[/s]",[a:shake]咕嚕，哼哼[/s]
 BOSS_PYROPHINA_VS_ZARATANA_NAME,Pyrophina vs Zaratana,,Pyrophina contra Zaratana,Pyrophina contre Zaratana,Pyrophina vs. Zaratana,Pyrophina contro Zaratana,Pyrophina vs Zaratana,Pyrophina vs Zaratana

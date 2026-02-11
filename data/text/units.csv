@@ -78,7 +78,7 @@ ENEMY_TINYTUMOR_NAME,微型腫瘤,,Minitumor,Petite tumeur,Winziger Tumor,Piccol
 ENEMY_TINYTUMOR_DESC,其近戰攻擊使被擊中的貓永久失去 1 [img:con]，並有機率導致癌症。,,Su ataque cuerpo a cuerpo hace que los gatos pierdan 1 [img:con] para siempre y puede provocarles cáncer.,Son attaque au corps à corps fait perdre définitivement 1&nbsp;[img:con] aux chats qu'elle touche et a une chance de leur donner le cancer.,Seine Nahkampfangriffe auf Katzen verringern ihre [img:con] dauerhaft um 1 und kann Krebs verursachen.,"Il suo attacco corpo a corpo fa perdere permanentemente 1 alla [img:con] dei gatti che colpisce, e ha la possibilità di infliggere Cancro.",Seu ataque corpo-a-corpo faz com que gatos atingidos percam 1 de [img:con] permanentemente e possui uma chance de aplicar câncer.,其近戰攻擊使被擊中的貓永久失去 1 [img:con]，並有機率導致癌症。
 ENEMY_CLOT_NAME,血塊,,Coágulo,Caillot,Blutgerinnsel,Grumo,Coágulo,血塊
 ENEMY_CLOT_DESC,回合結束時有機率變成莖貓。,,Puede transformarse en citogato al final del turno.,A une chance de se changer en chat écorché à la fin de son tour.,Wird mit einer gewissen Wahrscheinlichkeit am Ende seines Zuges zu einer Stammkatze.,Ha la possibilità di diventare un Gatto Staminale alla fine del suo turno.,Possui uma chance de se tornar um gato-tronco no final de seu turno.,回合結束時有機率變成莖貓。
-ENEMY_FRANKSBEAN_NAME,弗蘭克的豆豆,,Alubia de Frank,Haricot de Frank,Franks Bohne,Fagiolo di Frank,Feijão de Frank,弗蘭克的豆豆
+ENEMY_FRANKSBEAN_NAME,弗蘭克的豆豆,,Alubia de Frank,Haricot de Frank,Franks Bohne,Fagiolo di Frank,Feijão de Frank,Frank的豆豆
 ENEMY_LOUSE_NAME,蝨子,,Piojo,Pou,Laus,Pidocchio,Piolho,蝨子
 ENEMY_LOUSE_DESC,其近戰攻擊會造成淤傷。,,Su ataque cuerpo a cuerpo inflige moratón.,Son attaque au corps à corps inflige Contusion.,Ihr Nahkampfangriff verursacht Beulen.,Il suo attacco corpo a corpo infligge Livido.,Seu ataque corpo-a-corpo aplica contusão.,其近戰攻擊會造成淤傷。
 ENEMY_LILRAT_NAME,小老鼠,,Ratilla,Raton,Rattenfratz,Topolino,Ratinho,小老鼠
@@ -1366,7 +1366,7 @@ Ottiene Velocità alla fine del suo turno.","Ataca tantas vezes quanto possível
 回合結束時獲得速度加成。"
 ENEMY_FLESHYMIND_NAME,肉質之心,,Mente carnosa,Génie de chair,Fleischgeist,Mente Carnosa,Mente Cárnea,肉質之心
 ENEMY_FLESHYMIND_DESC,擁有遠端攻擊，造成沉默。攻擊它的單位會被混亂。,,Lanza un ataque a distancia que inflige silencio. Inflige confusión a las unidades que la atacan.,Son attaque à distance inflige Entrave magique. Inflige Confusion aux unités qui l'attaquent.,"Hat einen Fernkampfangriff, der Stumm verursacht. Verursacht Verwirrung bei Einheiten, die ihn angreifen.",Possiede un attacco a distanza che infligge Mutismo. Infligge Confusione alle unità che lo attaccano.,Possui um ataque à distância que aplica silêncio. Aplica confusão em unidades que a atacam.,擁有遠端攻擊，造成沉默。 攻擊它的單位會被混亂。
-ENEMY_BUTCHTINK_NAME,布奇與丁克,,Butch y Tink,Butch & Tink,Butch & Tink,Butch & Tink,Butch & Tink,布奇與丁克
+ENEMY_BUTCHTINK_NAME,布奇與丁克,,Butch y Tink,Butch & Tink,Butch & Tink,Butch & Tink,Butch & Tink,Butch與Tink
 ENEMY_BUTCHTINK_DESC,"向造成傷害的目標移動1格。
 最後一回合會衝刺。
 踐踏。",,"Se mueven 1 casilla hacia aquello que les inflija daño.
@@ -1382,7 +1382,7 @@ Realiza um impulso em seu último turno.
 Atropelamento.","向造成傷害的目標移動1格。
 最後一回合會衝刺。
 踐踏。"
-ENEMY_TRACY_NAME,特蕾西,,Tracy,Tracy,Tracy,Tracy,Tracy,特蕾西
+ENEMY_TRACY_NAME,特蕾西,,Tracy,Tracy,Tracy,Tracy,Tracy,Tracy
 ENEMY_TRACY_DESC,"執行旋轉攻擊。
 被擊中時會嘗試用左臂反擊。",,"Lanza un ataque giratorio.
 Intenta contratacar con el brazo izquierdo al recibir un golpe.","Effectue une attaque tournoyante.
@@ -1393,7 +1393,7 @@ Tenta contra-atacar com seu braço esquerdo ao sofrer golpes.","執行旋轉攻�
 被擊中時會嘗試用左臂反擊。"
 ENEMY_DRBEANINES_NAME,Beanies博士,,Dr. Beanies,Dr Beanies,Dr. Beanies,Dottor Beanies,Dr. Beanies,Beanies博士
 ENEMY_DRBEANIES_DESC,扔出會在回合結束時爆炸的炸彈。,,Lanza bombas que hacen explosión al final de la ronda.,Lance des bombes qui explosent en fin de manche.,"Wirft Bomben, die am Ende der Runde explodieren.",Lancia bombe che esplodono alla fine del round.,Lança bombas que explodem no final da rodada.,扔出會在回合結束時爆炸的炸彈。
-ENEMY_FRANK_NAME,弗蘭克,,Frank,Franck,Frank,Frank,Frank,弗蘭克
+ENEMY_FRANK_NAME,弗蘭克,,Frank,Franck,Frank,Frank,Frank,Frank
 ENEMY_FRANK_DESC,"會吸入單位，然後吐出來。
 死亡時變成弗蘭克的豆豆。",,"Se traga a la unidades antes de escupirlas.
 Se transforma en alubia de Frank al morir.","Aspire les unités, puis les recrache.
@@ -1401,7 +1401,7 @@ Se change en haricot de Frank à sa mort.","Saugt Einheiten an und spuckt sie wi
 Wird zu Franks Bohne, wenn er stirbt.","Risucchia le unità, poi le sputa.
 Diventa Fagiolo di Frank quando viene ucciso.","Suga unidades e então as cospe.
 Torna-se o Feijão de Frank ao morrer.","會吸入單位，然後吐出來。
-死亡時變成弗蘭克的豆豆。"
+死亡時變成Frank的豆豆。"
 ENEMY_CHERUBIUM_NAME,智天使,,Querube,Chérubin,Cherubim,Cherubino,Querubim,智天使
 ENEMY_CHERUBIUM_DESC,"給予盟友[m:divineshield]。
 受到傷害時觸發範圍攻擊。
@@ -2541,23 +2541,23 @@ ENEMY_DESTROYER2_DESC,永恆的黑暗！,,Tenebris aeternae.,Tenebris aeternae&n
 ENEMY_THECHILD_NAME,孩子,,La Criatura,L'Enfant,Das Kind,La Creatura,A Criança,孩子
 ENEMY_THECHILD_DESC,考慮終局！,,Respice finem...,Respice finem&nbsp;!,Respice finem!,Respice Finem!,Respice Finem!,考慮終局！
 ENEMY_THEFATHER_NAME,父親,,El Padre,Le Patriarche,Der Vater,Il Padre,O Pai,父親
-ENEMY_GUILLOTINA_NAME,斷頭台,,Guillotina,Guillotina,Guillotina,Guillotina,Guillotina,斷頭台
+ENEMY_GUILLOTINA_NAME,斷頭台,,Guillotina,Guillotina,Guillotina,Guillotina,Guillotina,Guillotina
 ENEMY_TINA1_DESC,她永無止境地渴求著！,,¡Tiene un apetito insaciable!,Elle est animée d'une faim insatiable&nbsp;!,Sie hat einen unersättlichen Hunger!,Ha un appetito insaziabile!,Ela anseia com sua fome insaciável!,她永無止境地渴求著！
 ENEMY_TINA2HEAD_DESC,它可能與她的身體分開，但他們仍在協同工作。,,"Se ha separado del cuerpo, pero siguen trabajando juntos.","Même séparée de son corps, leur lien demeure intact.","Er mag von ihrem Körper getrennt sein, aber sie arbeiten trotzdem zusammen.","Non è più attaccata al suo corpo, ma lavorano ancora insieme.","Pode ter se separado de sua cabeça, mas ainda trabalha em conjunto.",它可能與她的身體分開，但他們仍在協同工作。
 ENEMY_TINA2BODY_DESC,它可能與她的頭部分開，但他們仍在協同工作。,,"Se ha separado del cuerpo, pero siguen trabajando juntos.","Même séparée de sa tête, leur lien demeure intact.","Sie mag von ihrem Kopf getrennt sein, aber sie arbeiten trotzdem zusammen.","Non è più attaccato alla sua testa, ma lavorano ancora insieme.","Pode ter se separado de seu corpo, mas ainda trabalha em conjunto.",它可能與她的頭部分開，但他們仍在協同工作。
 ENEMY_TINA3BODY_DESC,它正在試圖找到它的頭……,,Anda en busca de su cabeza...,Elle cherche sa tête...,"Sie versucht, ihren Kopf zu finden&nbsp;…",Cerca di ritrovare la sua testa...,Está tentando encontrar sua cabeça...,它正在試圖找到它的頭……
 ENEMY_TINA3HEAD_DESC,對不起，我死了……,,"Lo siento, pero estoy kaputt.","Je suis canée, désolée...","Sorry, ich bin tot&nbsp;…","Mi spiace, sono morta...","Desculpe, eu morri...",對不起，我死了……
-ENEMY_PYROPHINA_NAME,火菲娜,,Pyrophina,Pyrophina,Pyrophina,Pyrophina,Pyrophina,火菲娜
+ENEMY_PYROPHINA_NAME,火菲娜,,Pyrophina,Pyrophina,Pyrophina,Pyrophina,Pyrophina,Pyrophina
 ENEMY_PYROPHINASOLO_DESC,Pyrophina 在地獄之火中受洗並存活下來！,,¡A Pyrophina la bautizaron en el fuego del averno y sobrevivió!,Pyrophina a reçu son baptême du feu dans les flammes de l'enfer et a survécu&nbsp;!,Pyrophina wurde im Höllenfeuer getauft und hat überlebt!,Pyrophina è stata battezzata nelle fiamme dell'inferno ed è sopravvissuta!,Pyrophina foi batizada no fogo do inferno e sobreviveu!,Pyrophina 在地獄之火中受洗並存活下來！
 ENEMY_PYROPHINAVS_DESC,她想殺死 Zaratana！,,Quiere matar a Zaratana.,Elle veut tuer Zaratana&nbsp;!,Sie will Zaratana töten!,Vuole uccidere Zaratana!,Quer matar Zaratana!,她想殺死 Zaratana！
 ENEMY_PYROPHINAFRIENDLY_NAME,Pyrophina（友好）,,Pyrophina (aliada),Pyrophina (amicale),Pyrophina (Freundlich),Pyrophina (Alleata),Pyrophina (Amigável),Pyrophina（友好）
-ENEMY_ZARATANA_NAME,扎拉塔納,,Zaratana,Zaratana,Zaratana,Zaratana,Zaratana,扎拉塔納
+ENEMY_ZARATANA_NAME,扎拉塔納,,Zaratana,Zaratana,Zaratana,Zaratana,Zaratana,Zaratana
 ENEMY_ZARATANASOLO_DESC,Zaratana 的身體散發著銀河能量！,,El cuerpo de Zaratana irradia energía galáctica.,Le corps de Zaratana rayonne d'énergie galactique&nbsp;!,Zaratanas Körper erstrahlt mit galaktischer Energie!,Il corpo di Zaratana sprigiona energia galattica!,O corpo de Zaratana irradia com energia galática!,Zaratana 的身體散發著銀河能量！
 ENEMY_ZARATANAVS_DESC,她想殺死 Pyrophina！,,Quiere matar a Pyrophina.,Elle veut tuer Pyrophina&nbsp;!,Sie will Pyrophina töten!,Vuole uccidere Pyrophina!,Quer matar Pyrophina!,她想殺死 Pyrophina！
 ENEMY_ZARATANAFRIENDLY_NAME,Zaratana（友好）,,Zaratana (aliada),Zaratana (amicale),Zaratana (Freundlich),Zaratana (Alleata),Zaratana (Amigável),Zaratana（友好）
 ENEMY_KAIJUFRIENDLY_DESC,她來幫忙，正在盡力而為！,,"Ha venido a echar un cable, ¡y en ello está!","Elle est là pour aider, elle fait de son mieux&nbsp;!","Sie ist gekommen, um zu helfen und versucht ihr Bestes!","È qui per aiutare, e per fare del suo meglio!",Ela está aqui para ajudar e está dando seu melhor!,她來幫忙，正在盡力而為！
 ENEMY_ORGANZODIAC_NAME,{organname},,{organname},{organname},{organname},{organname},{organname},{organname}
-ENEMY_STEVENSLIME_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ENEMY_STEVENSLIME_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ENEMY_BIGSTEVENSLIME_DESC,"近戰攻擊者。
 死亡時分裂成4箇中等史蒂文。",,"Atacante cuerpo a cuerpo.
 Se divide en 4 Stevens medianos al morir.","Attaque au corps à corps.
@@ -2565,7 +2565,7 @@ Se divise en 4&nbsp;Steven moyens à sa mort.","Nahkämpfer.
 Teilt sich in 4&nbsp;mittlere Stevens auf, wenn er stirbt.","Specialista del corpo a corpo.
 Si divide in 4 Steven medi alla morte.","Agressor corpo-a-corpo.
 Divide-se em 4 Stevens médios ao morrer.","近戰攻擊者。
-死亡時分裂成4箇中等史蒂文。"
+死亡時分裂成4箇中等Steven。"
 ENEMY_MIDSTEVENSLIME_DESC,"近戰攻擊者。
 死亡時分裂成4個小史蒂文。",,"Atacante cuerpo a cuerpo.
 Se divide en 4 Stevens pequeños al morir.","Attaque au corps à corps.
@@ -2573,7 +2573,7 @@ Se divise en 4&nbsp;petits Steven à sa mort.","Nahkämpfer.
 Teilt sich in 4&nbsp;kleine Stevens auf, wenn er stirbt.","Specialista del corpo a corpo.
 Si divide in 4 Steven piccoli alla morte.","Agressor corpo-a-corpo.
 Divide-se em 4 Stevens pequenos ao morrer.","近戰攻擊者。
-死亡時分裂成4個小史蒂文。"
+死亡時分裂成4個小Steven。"
 ENEMY_SMALLSTEVENSLIME_DESC,"近戰攻擊者。
 死亡時變成故障瓷磚。",,"Atacante cuerpo a cuerpo.
 Se transforma en una casilla de anomalía al morir.","Attaque au corps à corps.

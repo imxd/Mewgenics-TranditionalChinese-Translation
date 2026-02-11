@@ -1071,9 +1071,9 @@ ITEM_STEELBALL_DESC,"使用：召喚一個無敵的蒼蠅寵物。
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: invoque um familiar mosca invulnerável.
 [s:.7](Um uso por batalha.)[/s]","使用：召喚一個無敵的蒼蠅寵物。
 [s:.7](每場戰鬥可用一次。 )[/s]"
-ITEM_STEVENSBAGOFROCKS_NAME,史蒂文的岩石袋,,Bolsa de rocas de Steven,Sac de pierres de Steven,Stevens Steintasche,Sacco di Rocce di Steven,Saco de Pedras de Steve,史蒂文的岩石袋
+ITEM_STEVENSBAGOFROCKS_NAME,史蒂文的岩石袋,,Bolsa de rocas de Steven,Sac de pierres de Steven,Stevens Steintasche,Sacco di Rocce di Steven,Saco de Pedras de Steve,Steven的岩石袋
 ITEM_STEVENSBAGOFROCKS_DESC,使用：一次近戰攻擊，有機率重複攻擊，施加挫傷。,,Uso: Lanza un ataque cuerpo a cuerpo con probabilidad de repetirse que inflige moratón.,"Utilisation&nbsp;: une attaque au corps à corps avec une chance de se répéter, qui inflige Contusion.","Benutzen: Ein Nahkampfangriff, der mit einer gewissen Wahrscheinlichkeit wiederholt wird. Verursacht Beulen.",Uso: Un attacco corpo a corpo con possibilità di ripetersi che infligge Livido.,Uso: um ataque corpo-a-corpo com uma chance de se repetir que aplica contusão.,使用：一次近戰攻擊，有機率重複攻擊，施加挫傷。
-ITEM_STEVENSBOTTLE_NAME,史蒂文的瓶子,,Botella de Steven,Bouteille de Steven,Stevens Flasche,Bottiglia di Steven,Garrafa de Steve,史蒂文的瓶子
+ITEM_STEVENSBOTTLE_NAME,史蒂文的瓶子,,Botella de Steven,Bouteille de Steven,Stevens Flasche,Bottiglia di Steven,Garrafa de Steve,Steven的瓶子
 ITEM_STEVENSBOTTLE_DESC,使用：一種遠端攻擊，建立一個焦油瓦片。,,Uso: Lanza un ataque a distancia que genera una casilla de brea.,Utilisation&nbsp;: une attaque à distance faisant apparaître une case de goudron.,"Benutzen: Ein Fernkampfangriff, der ein Teerfeld erzeugt.",Uso: Un attacco a distanza che crea una casella di Catrame.,Uso: um ataque à distância que cria um espaço de piche.,使用：一種遠端攻擊，建立一個焦油瓦片。
 ITEM_STEVENSGRISTLE_NAME,斯蒂文的軟骨,,Cartílago de Steven,Cartilage de Steven,Stevens Knorpel,Cartilagine di Steven,Cartilagem de Steven,斯蒂文的軟骨
 ITEM_STEVENSGRISTLE_DESC,"單位不會留下屍體。
@@ -1100,7 +1100,7 @@ O dano é reiniciado no final da aventura.","單位不會留下屍體。
 傷害在冒險結束時重置。"
 ITEM_STEVENSSHOTGUN_NAME,斯蒂文的獵槍,,Escopeta de Steven,Fusil de Steven,Stevens Schrotflinte,Fucile a Pompa di Steven,Escopeta de Steve,斯蒂文的獵槍
 ITEM_STEVENSSHOTGUN_DESC,使用：發射 5 枚錐形投射物。使用後向後後退 10 格並且陷入混亂。,,"Uso: Dispara 5 proyectiles en un área cónica. Al usarla, esta unidad retrocede 10 casillas y sufre confusión.",Utilisation&nbsp;: tire 5&nbsp;projectiles en cône. Son utilisation vous projette de 10&nbsp;cases en arrière et vous inflige Confusion.,Benutzen: Verschießt 5&nbsp;Geschosse in einem kegelförmigen Bereich. Nach Benutzung wirst du 10&nbsp;Felder zurückgestoßen und verwirrt.,"Uso: Spara 5 proiettili in un cono. Se lo usi, rinculi di 10 caselle all'indietro e subisci Confusione.",Uso: dispare 5 projéteis em cone. Esta arma possui um recuo que empurra você 10 espaços para trás e aplica confusão.,使用：發射 5 枚錐形投射物。 使用後向後後退 10 格並且陷入混亂。
-ITEM_STEVENWEAPON1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ITEM_STEVENWEAPON1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ITEM_STEVENWEAPON1_DESC,"使用：一次近戰攻擊。如果命中一個盟友貓，則生成一個它們四分之一大小、屬性為原來的 25% 的複製體。複製體由 AI 控制。
 重新裝填：一個盟友貓死亡。",,"Uso: Lanza un ataque cuerpo a cuerpo. Si golpea a un gato aliado, se genera una copia a un cuarto de tamaño con el 25 % de sus atributos. La copia la controla la IA.
 RECARGA: Muere un gato aliado.","Utilisation&nbsp;: une attaque au corps à corps. Toucher un chat allié invoque un double de vous quatre fois plus petit avec 25&nbsp;% de vos stats, contrôlé par l'IA.
@@ -1109,7 +1109,7 @@ NACHLADEN: Eine verbündete Katze stirbt.","Uso: Un attacco corpo a corpo. Se co
 RICARICA: Un gatto alleato muore.","Uso: um ataque corpo-a-corpo. Ao golpear um gato aliado, gere uma cópia desse gato com um quarto do tamanho original e 25% de seus atributos. A cópia é controlada pelo computador.
 RECARREGAMENTO: um gato aliado morre.","使用：一次近戰攻擊。 如果命中一個盟友貓，則生成一個它們四分之一大小、屬性為原來的 25% 的複製體。 複製體由 AI 控制。
 重新裝填：一個盟友貓死亡。"
-ITEM_STEVENWEAPON2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ITEM_STEVENWEAPON2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ITEM_STEVENWEAPON2_DESC,"使用：一次拋擲攻擊，造成石化效果。
 重新裝填：擊殺一塊岩石。",,"Uso: Lanza un ataque en arco que inflige petrificación.
 RECARGA: Mata una roca.","Utilisation&nbsp;: une attaque en cloche qui inflige Pétrification.
@@ -1779,11 +1779,11 @@ ITEM_SPRING_NAME,春季,,Muelle,Ressort,Sprungfeder,Molla,Mola,春季
 ITEM_SPRING_DESC,你的移動動作是跳躍。,,La acción de movimiento se convierte en un salto.,Votre action de déplacement devient Saut.,Deine Bewegungsaktion wird ein Sprung.,La tua azione di movimento è Salto.,Sua ação de movimento é um salto.,你的移動動作是跳躍。
 ITEM_STEROIDS_NAME,類固醇,,Esteroides,Stéroïdes,Steroide,Steroidi,Esteróides,類固醇
 ITEM_STEROIDS_DESC,使用：永久獲得 +1 [img:str]。在接下來的冒險中，每回合開始時，你有 +2% 機率獲得瘋狂狀態。,,"Uso: Obtiene +1 [img:str] para siempre. Hasta el final de la aventura, tiene +2 % de probabilidad de obtener locura al inicio de cada turno.","Utilisation&nbsp;: [img:str] +1&nbsp;de façon permanente. Pour le reste de l'aventure, vous avez +2&nbsp;% de chances de subir Folie au début de chaque tour.","Benutzen: Erhalte dauerhaft +1&nbsp;[img:str]. Für den Rest des Abenteuers besteht eine +2%ige Wahrscheinlichkeit, dass du am Anfang eines Zuges wahnsinnig wirst.","Uso: Ottieni +1 alla [img:str], permanentemente. Per il resto dell'avventura, hai un +2% di probabilità di ottenere Follia all'inizio di ogni turno.","Uso: obtenha +1 de [img:str] permanentemente. Pelo resto da aventura, você possui uma chance de 2% de obter insanidade no início de cada turno.",使用：永久獲得 +1 [img:str]。 在接下來的冒險中，每回合開始時，你有 +2% 機率獲得瘋狂狀態。
-ITEM_STEVENMARROW_NAME,史蒂文·馬羅,,Steven de médula,Moelle de Steven,Stevens Knochenmark,Midollo di Steven,Medula de Steven,史蒂文·馬羅
+ITEM_STEVENMARROW_NAME,史蒂文·馬羅,,Steven de médula,Moelle de Steven,Stevens Knochenmark,Midollo di Steven,Medula de Steven,Steven·馬羅
 ITEM_STEVENMARROW_DESC,你獲得的任何 [img:shield] 提升 4 點。,,Cualquier [img:shield] obtenido aumenta en 4.,Chaque [img:shield] que vous obtenez est augmenté de 4.,"Jeglicher [img:shield], den du erhältst, ist um 4 erhöht.",Qualsiasi [img:shield] che ottieni è aumentato di 4.,Qualquer [img:shield] que você obtém é aumentado em 4.,你獲得的任何 [img:shield] 提升 4 點。
-ITEM_STEVENSTONE_NAME,史蒂文·斯通,,Steven de piedra,Pierre de Steven,Stevens Stein,Pietra di Steven,Pedra de Steven,史蒂文·斯通
+ITEM_STEVENSTONE_NAME,史蒂文·斯通,,Steven de piedra,Pierre de Steven,Stevens Stein,Pietra di Steven,Pedra de Steven,Steven·斯通
 ITEM_STEVENSTONE_DESC,你的無項圈法術消耗減少 2 法力值。,,Los hechizos sin collar cuestan -2 de maná.,Vos sorts sans collier coûtent -2&nbsp;mana.,Deine klassenlosen Zauber kosten -2&nbsp;Mana.,I tuoi incantesimi dei Senza Collare costano -2 mana.,Seus encantamentos sem coleira custam -2 de mana.,你的無項圈法術消耗減少 2 法力值。
-ITEM_STEVENTRINKET1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ITEM_STEVENTRINKET1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ITEM_STEVENTRINKET1_DESC,"你的普通攻擊會造成遲緩，並且有 +10% 機率凍結。
 你可以對凍結單位造成傷害。",,"El ataque básico inflige ralentización y tiene +10 % de probabilidad de congelar.
 Puede dañar a las unidades congeladas.","Votre attaque de base inflige Lenteur et a +10&nbsp;% de chances d'infliger Gel.
@@ -1792,7 +1792,7 @@ Du kannst Schaden bei eingefrorenen Einheiten verursachen.","Il tuo attacco base
 Puoi infliggere danno alle unità congelate.","Seu ataque básico aplica lentidão e possui +10% de chance de aplicar congelamento.
 Você pode causar dano a unidades congeladas.","你的普通攻擊會造成遲緩，並且有 +10% 機率凍結。
 你可以對凍結單位造成傷害。"
-ITEM_STEVENTRINKET2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ITEM_STEVENTRINKET2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ITEM_STEVENTRINKET2_DESC,你的普通攻擊會造成混亂。,,El ataque básico inflige confusión.,Votre attaque de base inflige Confusion.,Dein Grundangriff verursacht Verwirrung.,Il tuo attacco base infligge Confusione.,Seu ataque básico aplica confusão.,你的普通攻擊會造成混亂。
 ITEM_STICKMAN_NAME,火柴人,,Monigote,Bonhomme bâton,Astfigur,Stickman,Boneco de Palitinho,火柴人
 ITEM_STICKMAN_DESC,當你對隊友造成傷害時，獲得全屬性提升。,,Obtiene aumento total al infligir daño a un miembro del grupo.,Hausse de stats quand vous infligez des dégâts à un membre de l'équipe.,"Erhalte einen Bonus auf alle Attribute, wenn du Schaden bei einem Gruppenmitglied verursachst.",Ottieni Aumento delle Statistiche quando infliggi danno a un membro del gruppo.,Obtenha todos os atributos aumentados ao causar dano a um membro da sua equipe.,當你對隊友造成傷害時，獲得全屬性提升。
@@ -2034,9 +2034,9 @@ ITEM_RAPTOREGG_DESC,使用：恢復至滿血。每回合結束時有10%機率破
 Hat am Ende jedes Zuges eine 10%ige Wahrscheinlichkeit, kaputtzugehen und ein freundliches Raptorkätzchen zu beschwören.","Uso: Guarisci completamente.
 Ha un 10% di probabilità alla fine di ogni turno di rompersi ed evocare un Gattino Rapace Ammaliato.","Uso: cure-se completamente.
 10% de chance de quebrar ou invocar um filhotinho de raptor enfeitiçado no final do turno.",使用：恢復至滿血。 每回合結束時有10%機率破碎並召喚一隻被魅惑的迅猛龍幼崽。
-ITEM_ROIDRAGE_NAME,Roid Rage,,Rabia esteroidea,Furioxane,Steroidwut,Rabbia da Steroidi,Roid Rage,Roid Rage
+ITEM_ROIDRAGE_NAME,Roid Rage,,Rabia esteroidea,Furioxane,Steroidwut,Rabbia da Steroidi,Roid Rage,類固醇狂怒
 ITEM_ROIDRAGE_DESC,使用：[獲得 +{aux} [img:str] 持續整個戰鬥。],,Uso: Obtiene +{aux} [img:str] durante el resto del combate.,Utilisation&nbsp;: [img:str] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:str].,Uso: Ottieni +{aux} alla [img:str] per il resto della battaglia.,Uso: obtenha +{aux} de [img:str] pelo resto da batalha.,使用：[獲得 +{aux} [img:str] 持續整個戰鬥。 ]
-ITEM_ROTISSERIECHICKEN_NAME,Rotisserie Chicken,,Pollo asado,Poulet rôti,Brathähnchen,Pollo allo Spiedo,Galinha de Rotisserie,Rotisserie Chicken
+ITEM_ROTISSERIECHICKEN_NAME,Rotisserie Chicken,,Pollo asado,Poulet rôti,Brathähnchen,Pollo allo Spiedo,Galinha de Rotisserie,烤雞
 ITEM_ROTISSERIECHICKEN_DESC,使用：恢復 {aux} 生命值。,,Uso: Devuelve {aux} PS.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.,使用：恢復 {aux} 生命值。
 ITEM_ROTTENMEAT_NAME,腐肉,,Carne putrefacta,Viande rôtie,Verdorbenes Fleisch,Carne Marcia,Carne Podre,腐肉
 ITEM_ROTTENMEAT_DESC,"使用：獲得中毒 1，然後你的基礎攻擊變為嘔吐射擊。
@@ -2047,9 +2047,9 @@ ITEM_ROTTENMEAT_DESC,"使用：獲得中毒 1，然後你的基礎攻擊變為�
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: obtenha veneno 1, e então seu ataque básico se torna um disparo de vômito.
 [s:.7](Um uso por batalha.)[/s]","使用：獲得中毒 1，然後你的基礎攻擊變為嘔吐射擊。
 [s:.7](每場戰鬥一次。 )[/s]"
-ITEM_SHOEPOLISH_NAME,Shoe Polish,,Betún,Cirage,Schuhpolitur,Lucido da Scarpe,Cera de Sapato,Shoe Polish
+ITEM_SHOEPOLISH_NAME,Shoe Polish,,Betún,Cirage,Schuhpolitur,Lucido da Scarpe,Cera de Sapato,鞋油
 ITEM_SHOEPOLISH_DESC,使用：完全修復你的武器。重新整理你的武器行動。,,Uso: Repara el arma por completo. Restaura la acción de arma.,Utilisation&nbsp;: répare entièrement votre arme et réinitialise son action.,Benutzen: Repariere deine Waffe vollständig. Deine Waffenaktion wird aufgefrischt.,Uso: Ripari completamente la tua arma. Ricarichi la tua azione arma.,Uso: repare totalmente sua arma. Reinicie sua ação de arma.,使用：完全修復你的武器。 重新整理你的武器行動。
-ITEM_SITRUSBERRY_NAME,Citrus Berry,,Citrobaya,Baie acidulée,Zitrusbeere,Agrume,Fruta Cítrica,Citrus Berry
+ITEM_SITRUSBERRY_NAME,Citrus Berry,,Citrobaya,Baie acidulée,Zitrusbeere,Agrume,Fruta Cítrica,柑橘莓
 ITEM_SITRUSBERRY_DESC,"使用：治療 25% 生命值。
 當你的生命值低於 50% 時自動食用。",,"Uso: Devuelve un 25 % de PS.
 Se la come automáticamente si los PS caen por debajo del 50 %.","Utilisation&nbsp;: soigne 25&nbsp;% de PV.
@@ -2058,11 +2058,11 @@ Wird automatisch benutzt, wenn deine LP unter 50&nbsp;% fallen.","Uso: Recuperi 
 Viene mangiato automaticamente se i tuoi PS scendono sotto al 50%.","Uso: cure 25% de saúde.
 Coma automaticamente este item se sua saúde cair abaixo de 50%.","使用：治療 25% 生命值。
 當你的生命值低於 50% 時自動食用。"
-ITEM_SLEEPDART_NAME,Sleep Dart,,Dardo tranquilizante,Fléchette sédative,Schlafpfeil,Dardo Soporifero,Dardo Tranquilizante,Sleep Dart
+ITEM_SLEEPDART_NAME,Sleep Dart,,Dardo tranquilizante,Fléchette sédative,Schlafpfeil,Dardo Soporifero,Dardo Tranquilizante,睡眠飛鏢
 ITEM_SLEEPDART_DESC,使用：直線遠端攻擊，造成睡眠 1。,,Uso: Lanza un ataque a distancia en línea recta que inflige 1 de sueño.,Utilisation&nbsp;: une attaque à distance en ligne droite qui inflige Sommeil +1.,"Benutzen: Ein gerader Fernkampfangriff, der Schlaf&nbsp;1 verursacht.",Uso: Un attacco diretto a distanza che infligge Sonno 1.,Uso: um ataque à distância em linha reta que aplica sono 1.,使用：直線遠端攻擊，造成睡眠 1。
-ITEM_SMALLCATNIPBAGGY_NAME,Small Catnip Baggy,,Bolsita de hierba gatera,Petit sachet d'herbe à chat,Kleine Tasche mit Katzenminze,Sacchetto di Erba Gatta Piccolo,Saco de Erva-de-Gato Pequeno,Small Catnip Baggy
+ITEM_SMALLCATNIPBAGGY_NAME,Small Catnip Baggy,,Bolsita de hierba gatera,Petit sachet d'herbe à chat,Kleine Tasche mit Katzenminze,Sacchetto di Erba Gatta Piccolo,Saco de Erva-de-Gato Pequeno,小袋貓薄荷
 ITEM_SMALLCATNIPBAGGY_DESC,使用：獲得 {aux} 法力值。,,Uso: Obtiene {aux} de maná.,Utilisation&nbsp;: rend {aux} mana.,Benutzen: Erhalte {aux}&nbsp;Mana.,Uso: Ottieni {aux} mana.,Uso: obtenha {aux} de mana.,使用：獲得 {aux} 法力值。
-ITEM_SMELLINGSALTS_NAME,Smelling Salts,,Sales aromáticas,Sels d'ammoniaque,Riechsalz,Sali,Sais de Cheiro,Smelling Salts
+ITEM_SMELLINGSALTS_NAME,Smelling Salts,,Sales aromáticas,Sels d'ammoniaque,Riechsalz,Sali,Sais de Cheiro,嗅鹽
 ITEM_SMELLINGSALTS_DESC,"使用：復活一個相鄰單位，恢復 1 生命值。
 如果你倒地，回合結束時自動使用。",,"Uso: Resucita a una unidad adyacente con 1 PS.
 Esta unidad las consume automáticamente al final de la ronda si ha caído abatida.","Utilisation&nbsp;: réanime une unité adjacente avec 1&nbsp;PV.
@@ -2071,15 +2071,15 @@ Wird am Ende der Runde automatisch auf dich selbst benutzt, wenn du in Ohnmacht 
 Vengono utilizzati automaticamente su di te alla fine del round se sei KO.","Uso: reviva uma unidade adjacente com 1 PV.
 Este item é usado automaticamente se você estiver inconsciente no final da rodada.","使用：復活一個相鄰單位，恢復 1 生命值。
 如果你倒地，回合結束時自動使用。"
-ITEM_SPEEDBALL_NAME,Speedball,,Anfeta,Caféine,Speedball,Anfetamina,Speedball,Speedball
+ITEM_SPEEDBALL_NAME,Speedball,,Anfeta,Caféine,Speedball,Anfetamina,Speedball,快速球
 ITEM_SPEEDBALL_DESC,使用：[獲得 +{aux} [img:dex] 持續整個戰鬥。],,Uso: Obtiene +{aux} [img:dex] durante el resto del combate.,Utilisation&nbsp;: [img:dex] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:dex].,Uso: Ottieni +{aux} alla [img:dex] per il resto della battaglia.,Uso: obtenha +{aux} de [img:dex] pelo resto da batalha.,使用：[獲得 +{aux} [img:dex] 持續整個戰鬥。 ]
-ITEM_STAR_NAME,Star,,Estrella,Étoile,Stern,Stella,Estrela,Star
+ITEM_STAR_NAME,Star,,Estrella,Étoile,Stern,Stella,Estrela,星星
 ITEM_STAR_DESC,使用：獲得無敵，+10 棘刺，踐踏，持續到你下回合開始。重新整理你的移動行動。,,"Uso: Obtiene invencibilidad, +10 de espinas y pisotón hasta el próximo turno. Restaura la acción de movimiento.","Utilisation&nbsp;: vous confère Invincibilité, Épines +10, et Piétinement jusqu'au début de votre prochain tour. Réinitialise votre action de déplacement.","Benutzen: Erhalte bis zum Anfang deines nächsten Zuges Unverwundbarkeit, +10&nbsp;Dornen und Trampel. Frische deine Bewegungsaktion auf.","Uso: Ottieni Invincibilità, +10 Spine e Calpestamento fino all'inizio del tuo prossimo turno. Ricarichi la tua azione di movimento.","Uso: obtenha invencibilidade, +10 de espinhos e atropelamento até o início do próximo turno. Reinicie sua ação de movimento.",使用：獲得無敵，+10 棘刺，踐踏，持續到你下回合開始。 重新整理你的移動行動。
 ITEM_STEMCELLS_NAME,幹細胞,,Células madre,Cellules souches,Stammzellen,Cellule Staminali,Células-Tronco,幹細胞
 ITEM_STEMCELLS_DESC,使用：在戰鬥結束前獲得+3生命值恢復。,,Uso: Obtiene +3 de regeneración de salud hasta el final del combate.,Utilisation&nbsp;: Régénération de PV +3&nbsp;jusqu'à la fin du combat.,Benutzen: Erhalte bis zum Ende des Kampfes +3&nbsp;Lebensregeneration.,Uso: Ottieni +3 a Rigenerazione Salute fino alla fine della battaglia.,Uso: obtenha +3 de regeneração de saúde até o final da batalha.,使用：在戰鬥結束前獲得+3生命值恢復。
-ITEM_STEVENSCONSUMABLE1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ITEM_STEVENSCONSUMABLE1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ITEM_STEVENSCONSUMABLE1_DESC,使用：永久升級一個隨機的法術或被動能力。,,Uso: Mejora para siempre un hechizo o una habilidad pasiva al azar.,Utilisation&nbsp;: améliore un sort ou une compétence passive aléatoire de façon permanente.,Benutzen: Werte einen zufälligen Zauber oder eine Passivfähigkeit dauerhaft auf.,Uso: Potenzi permanentemente un incantesimo o un'abilità passiva casuale.,Uso: aprimore permanentemente um encantamento aleatório ou habilidade passiva.,使用：永久升級一個隨機的法術或被動能力。
-ITEM_STEVENSCONSUMABLE2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ITEM_STEVENSCONSUMABLE2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ITEM_STEVENSCONSUMABLE2_DESC,使用：召喚一個可控的自己複製體。,,Uso: Genera una copia controlable de esta unidad.,Utilisation&nbsp;: invoque un double de vous-même contrôlable.,Benutzen: Erstelle eine steuerbare Kopie deiner selbst.,Uso: Generi una tua copia controllabile.,Uso: gere uma cópia controlável de si.,使用：召喚一個可控的自己複製體。
 ITEM_SUPERBANDAGE_NAME,超級繃帶,,Supervendaje,Super pansement,Superbandage,Super Benda,Super Bandagem,超級繃帶
 ITEM_SUPERBANDAGE_DESC,使用：治療一個隨機傷口。,,Uso: Cura una lesión al azar.,Utilisation&nbsp;: soigne une blessure aléatoire.,Benutzen: Heile eine zufällige Verletzung.,Uso: Curi una ferita casuale.,Uso: cure um ferimento aleatório.,使用：治療一個隨機傷口。
@@ -2293,7 +2293,7 @@ ARMOR_SPIDERBABY_NAME,蜘蛛幼崽,,Bebé araña,Bébé-araignée,Babyspinne,Rag
 ARMOR_SPIDERBABY_DESC,受到傷害時生成一個小蜘蛛。,,Genera una arañita al sufrir daño.,"Quand vous subissez des dégâts, une jeune araignée est invoquée.","Rufe einen Spinnenling, wenn du Schaden erleidest.",Generi un Ragnetto quando subisci danno.,Gere uma aranhinha ao sofrer dano.,受到傷害時生成一個小蜘蛛。
 ARMOR_SPLINTEREDCROWN_NAME,破裂冠冕,,Corona astillada,Couronne de fortune,Splitterkrone,Corona Scheggiata,Coroa Estilhaçada,破裂冠冕
 ARMOR_SPLINTEREDCROWN_DESC,受到傷害時獲得+1荊棘。,,Obtiene +1 de espinas al sufrir daño.,Épines +1&nbsp;quand vous subissez des dégâts.,"Erhalte +1&nbsp;Dornen, wenn du Schaden erleidest.",Ottieni +1 Spine quando subisci danno.,Obtenha +1 de espinhos ao sofrer dano.,受到傷害時獲得+1荊棘。
-ARMOR_STEVENHAT1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ARMOR_STEVENHAT1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ARMOR_STEVENHAT1_DESC,"你的爆炸效果大大增強！
 你擁有爆炸免疫。",,"¡Las explosiones son muchísimo más potentes!
 Esta unidad es inmune a las explosiones.","Vos explosions sont bien, bien plus grosses&nbsp;!
@@ -2302,11 +2302,11 @@ Du bist immun gegen Explosionen.","Le tue esplosioni sono molto, molto più gran
 Hai l'immunità alle esplosioni.","Suas explosões são muito, muito maiores!
 Você possui imunidade contra explosões.","你的爆炸效果大大增強！
 你擁有爆炸免疫。"
-ARMOR_STEVENHAT2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ARMOR_STEVENHAT2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ARMOR_STEVENHAT2_DESC,每次施放法術時，獲得 +1 範圍和 +1 觸及，直到本回合結束。,,"Cada vez que lanza un hechizo, esta unidad obtiene +1 de alcance y +1 de extensión hasta el final del turno.","Quand vous lancez un sort, vous confère Portée +1&nbsp;et Allonge +1&nbsp;jusqu'à la fin du tour.","Jedes Mal, wenn du einen Zauber wirkst, erhältst du +1&nbsp;Reichweite bis zum Ende des Zuges.","Ogni volta che lanci un incantesimo, ottieni +1 al raggio d'azione e +1 alla portata fino alla fine del turno.","A cada vez que você lança um encantamento, obtenha +1 de alcance e +1 de envergadura até o final do turno.",每次施放法術時，獲得 +1 範圍和 +1 觸及，直到本回合結束。
-ARMOR_STEVENSHAT_NAME,史蒂文的帽子,,Sombrero de Steven,Chapeau de Steven,Stevens Hut,Cappello di Steven,Chapéu de Steven,史蒂文的帽子
+ARMOR_STEVENSHAT_NAME,史蒂文的帽子,,Sombrero de Steven,Chapeau de Steven,Stevens Hut,Cappello di Steven,Chapéu de Steven,Steven的帽子
 ARMOR_STEVENSHAT_DESC,你的法術消耗為0。每個法術每回合只能施放一次。,,Sus hechizos cuestan 0. Solo puede lanzar cada hechizo una vez por turno.,Vos sorts coûtent 0&nbsp;mana. Vous ne pouvez lancer qu'un sort de chaque type par tour.,Deine Zauber kosten 0&nbsp;Mana. Du kannst nur einen Zauber pro Zug wirken.,I tuoi incantesimi costano 0. Puoi lanciare ciascuno dei tuoi incantesimi solo una volta per turno.,Seus encantamentos custam 0. Só é possível lançar cada um de seus encantamentos uma vez por turno.,你的法術消耗為0。 每個法術每回合只能施放一次。
-ARMOR_STEVENSHELMET_NAME,史蒂文的頭盔,,Casco de Steven,Casque de Steven,Stevens Helm,Elmo di Steven,Capacete de Steven,史蒂文的頭盔
+ARMOR_STEVENSHELMET_NAME,史蒂文的頭盔,,Casco de Steven,Casque de Steven,Stevens Helm,Elmo di Steven,Capacete de Steven,Steven的頭盔
 ARMOR_STEVENSHELMET_DESC,當你倒地時，給另一隻盟友貓隨機2個異常狀態，如果你孤身一人則給自己。,,"Cuando esta unidad cae abatida, le inflige a otro gato aliado 2 trastornos al azar, o se los autoinflige si está sola.","K.O., inflige 2&nbsp;troubles aléatoires à une unité alliée, ou à vous-même si vous êtes seul.","Wenn du in Ohnmacht fällst, verursachst du 2 zufällige Störungen bei einer anderen Katze, oder bei dir selbst, wenn du allein bist.","Quando sei KO, infliggi 2 disturbi casuali a un altro gatto alleato, o a te se non c'è nessuno in tua compagnia.","Ao ficar inconsciente, dê a outro gato aliado 2 transtornos aleatórios, ou para si se estiver só.",當你倒地時，給另一隻盟友貓隨機2個異常狀態，如果你孤身一人則給自己。
 ARMOR_STONEHELMET_NAME,石頭頭盔,,Casco pétreo,Casque de pierre,Steinhelm,Elmo di Pietra,Capacete de Pedra,石頭頭盔
 ARMOR_STONEHELMET_DESC,+1 護甲。,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 護腕。
@@ -2456,7 +2456,7 @@ Zerbrechlich.","Generi 3-6 monete all'inizio di ogni battaglia.
 Fragile.","Gere 3-6 moedas no início de cada batalha.
 Frágil.","每場戰鬥開始時生成3-6個金幣。
 脆弱。"
-ARMOR_FRANKBOLTS_NAME,弗蘭克螺栓,,Tornillos de Frank,Boulons de Frank,Franks Schrauben,Dardi di Frank,Parafusos de Frank,弗蘭克螺栓
+ARMOR_FRANKBOLTS_NAME,弗蘭克螺栓,,Tornillos de Frank,Boulons de Frank,Franks Schrauben,Dardi di Frank,Parafusos de Frank,Frank螺栓
 ARMOR_FRANKBOLTS_DESC,"電擊免疫。
 被擊倒時，電擊傷害可以復活你。",,"Inmunidad a la electricidad.
 Cuando esta unidad cae abatida, el daño eléctrico la resucita.","Immunité à l'électricité.
@@ -2529,7 +2529,7 @@ ARMOR_PEACESYMBOLFACEPAINT_NAME,和平符號臉彩,,Pintacaras de la paz,Maquill
 ARMOR_PEACESYMBOLFACEPAINT_DESC,你對盟友造成的傷害減少為0。,,El daño infligido a los aliados se reduce a 0.,Les dégâts que vous infligez à vos alliés sont réduits à 0.,"Schaden, den du bei Verbündeten verursachst, wird auf 0 reduziert.",Il danno inflitto agli alleati è ridotto a 0.,O dano que você causa a aliados é reduzido a 0.,你對盟友造成的傷害減少為0。
 ARMOR_POLYP_NAME,發光的皮毛,,Pellejo resplandeciente,Pelage scintillant,Leuchtender Pelz,Pelliccia Luminescente,Pele Brilhante,發光的皮毛
 ARMOR_POLYP_DESC,+1 生命值恢復。每次受到傷害時25%機率生成一個被魅惑的凝塊。,,+1 de regeneración de salud. 25 % de probabilidad de generar un coágulo embrujado al sufrir daño.,Régénération de PV +1. 25&nbsp;% de chances d'invoquer un caillot envoûté quand vous subissez des dégâts.,"+1&nbsp;Lebensregeneration. 25%ige Wahrscheinlichkeit, ein freundliches Blutgerinnsel zu rufen, wenn du Schaden erleidest.",+1 a Rigenerazione Salute. 25% di probabilità di generare un Grumo Ammaliato quando subisci danno.,"+1 de regeneração de saúde, 25% de chance de gerar um coágulo enfeitiçado ao sofrer dano.",+1 生命值恢復。 每次受到傷害時25%機率生成一個被魅惑的凝塊。
-ARMOR_PYROPHINASTOENAIL_NAME,普里奧菲娜的腳趾甲,,Uña del pie de Pyrophina,Ongle de pied de Pyrophina,Pyrophinas Zehennagel,Unghia del Piede di Pyrophina,Unha do Pé de Pyrophina,普里奧菲娜的腳趾甲
+ARMOR_PYROPHINASTOENAIL_NAME,普里奧菲娜的腳趾甲,,Uña del pie de Pyrophina,Ongle de pied de Pyrophina,Pyrophinas Zehennagel,Unghia del Piede di Pyrophina,Unha do Pé de Pyrophina,Pyrophina的腳趾甲
 ARMOR_PYROPHINASTOENAIL_DESC,火焰免疫。,,Inmunidad al fuego.,Immunité au feu.,Immun gegen Feuer.,Immunità al fuoco.,Imunidade contra fogo.,火焰免疫。
 ARMOR_QUARTZNECKLACE_NAME,石英項鍊,,Gargantilla de cuarzo,Collier de quartz,Quarzkette,Collana di Quarzo,Colar de Quartzo,石英項鍊
 ARMOR_QUARTZNECKLACE_DESC,+1 護甲。,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação,+1 護腕。
@@ -2551,13 +2551,13 @@ ARMOR_SMALLRUNE_NAME,小符文,,Runa pequeña,Petite rune,Kleine Rune,Runa Picco
 ARMOR_SMALLRUNE_DESC,+10%閃避機率。,,+10 % de probabilidad de esquiva.,Chances d'esquive +10&nbsp;%.,+10&nbsp;% Ausweichchance.,+10% di probabilità di schivata.,+10% de chance de esquiva.,+10%閃避機率。
 ARMOR_SPIKEDCOLLAR_NAME,帶刺項圈,,Collar de pinchos,Collier à pics,Dornenhalsband,Collare Chiodato,Coleira de Espinhos,帶刺項圈
 ARMOR_SPIKEDCOLLAR_DESC,+2 反傷。,,+2 de espinas.,Épines +2.,+2&nbsp;Dornen.,+2 Spine.,+2 de espinhos.,+2 反傷。
-ARMOR_STEVENNECK1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ARMOR_STEVENNECK1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ARMOR_STEVENNECK1_DESC,你的神聖元素法術消耗減少1法力值。,,Los hechizos de elemento sagrado cuestan -1 de maná.,Vos sorts sacrés coûtent -1&nbsp;mana.,Deine heiligen Zauber kosten -1&nbsp;Mana.,I tuoi incantesimi di elemento sacro costano -1 mana.,Seus encantamentos do elemento sagrado custam -1 de mana.,你的神聖元素法術消耗減少1法力值。
-ARMOR_STEVENNECK2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ARMOR_STEVENNECK2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ARMOR_STEVENNECK2_DESC,當你處於倒地狀態時，受到任何傷害都會使你復活。,,"Mientras esta unidad está abatida, el daño la resucita.","K.O., subir des dégâts vous réanime.","Wenn du ohnmächtig bist, belebt dich Schaden wieder.","Quando sei KO, qualsiasi danno ti rianima.","Ao ficar inconsciente, sofrer qualquer dano revive você.",當你處於倒地狀態時，受到任何傷害都會使你復活。
-ARMOR_STEVENSFRIEND_NAME,史蒂文的朋友,,Colega de Steven,Ami de Steven,Stevens Freund,Amico di Steven,Amigo de Steven,史蒂文的朋友
+ARMOR_STEVENSFRIEND_NAME,史蒂文的朋友,,Colega de Steven,Ami de Steven,Stevens Freund,Amico di Steven,Amigo de Steven,Steven的朋友
 ARMOR_STEVENSFRIEND_DESC,每施放一次法術，生成一個模仿你基礎攻擊的影子複製體，該複製體在回合結束時消失。,,"Cada vez que esta unidad lanza un hechizo, genera una sombra que copia su ataque básico y que desaparece al final del turno.","Quand vous lancez un sort, invoque un double spectral qui copie votre attaque de base avant de disparaître en fin de tour.","Jedes Mal, wenn du einen Zauber wirkst, rufst du einen Schattenklon, der deinen Grundangriff nachahmt und am Ende des Zuges verschwindet.","Ogni volta che lanci un incantesimo, generi una tua copia ombra che imita il tuo attacco base e svanisce alla fine del tuo turno.","A cada vez que lançar um encantamento, gere uma cópia de si que imita seu ataque básico e desaparece no final do seu turno.",每施放一次法術，生成一個模仿你基礎攻擊的影子複製體，該複製體在回合結束時消失。
-ARMOR_STEVENSGOBBLER_NAME,史蒂文的吞噬者,,Pavo de Steven,Glouton de Steven,Stevens Puter,Deglutitore di Steven,Peru de Steven,史蒂文的吞噬者
+ARMOR_STEVENSGOBBLER_NAME,史蒂文的吞噬者,,Pavo de Steven,Glouton de Steven,Stevens Puter,Deglutitore di Steven,Peru de Steven,Steven的吞噬者
 ARMOR_STEVENSGOBBLER_DESC,與您接觸的單位會被擊退。您造成的擊退效果增加10點，並附加瘀傷1。,,Las unidades que entren en contacto con esta retroceden. El retroceso infligido aumenta en 10 e inflige 1 de moratón.,Les unités qui vous touchent subissent Recul +1. Le Recul que vous infligez est multiplié par 10&nbsp;et inflige Contusion +1.,"Einheiten, die dich berühren, werden zurückgestoßen. Dein Rückstoß ist um 10 erhöht und verursacht Beulen&nbsp;1.",Le unità che entrano in contatto con te vengono respinte. Il Contraccolpo che infliggi aumenta di 10 e infligge Livido 1.,Unidades que entram em contato com você são empurradas para trás. Empurrões causados por você são aumentados em 10 e aplicam contusão 1.,與您接觸的單位會被擊退。 您造成的擊退效果增加10點，並附加瘀傷1。
 ARMOR_STOMACH_NAME,胃,,Estómago,Estomac,Magen,Stomaco,Estômago,胃
 ARMOR_STOMACH_DESC,你使用的消耗品效果加倍。,,Los consumibles duplican el efecto.,Les effets de vos consommables sont doublés.,"Gegenstände, die du benutzt, haben verdoppelte Effekte.",I consumabili che usi hanno il doppio dell'effetto.,Consumíveis que você usa têm seu efeito dobrado.,你使用的消耗品效果加倍。
@@ -2591,7 +2591,7 @@ Molhe-se no início do seu turno.","+1 生命恢復。
 回合開始時變濕。"
 ARMOR_WHITERABBITPAW_NAME,白兔爪,,Pata de conejo blanco,Patte de lapin blanc,Weiße Rabenpfote,Zampa di Coniglio Bianca,Pata de Coelho Branco,白兔爪
 ARMOR_WHITERABBITPAW_DESC,,,,,,,,
-ARMOR_ZARATANATURD_NAME,扎拉塔納的糞便,,Zurullo de Zaratana,Étron de Zaratana,Zaratanas Kackwurst,Escremento di Zaratana,Cocô de Zaratana,扎拉塔納的糞便
+ARMOR_ZARATANATURD_NAME,扎拉塔納的糞便,,Zurullo de Zaratana,Étron de Zaratana,Zaratanas Kackwurst,Escremento di Zaratana,Cocô de Zaratana,Zaratana的糞便
 ARMOR_ZARATANATURD_DESC,擊退免疫。,,Inmunidad al retroceso.,Immunité au Recul.,Immun gegen Rückstoß.,Immunità al Contraccolpo.,Imunidade contra empurrões.,擊退免疫。
 ARMOR_ZODIACSPONCHO_NAME,十二星座斗篷,,Poncho de Zodiaco,Poncho du zodiac,Zodiacs Poncho,Poncho dello Zodiaco,Poncho do Zodíaco,十二星座斗篷
 ARMOR_ZODIACSPONCHO_DESC,+1 射程。在你的回合中，一個隨機敵人擁有賞金。,,"+1 de alcance. Durante el turno de esta unidad, un enemigo al azar recibe una recompensa.","Portée +1. Durant votre tour, un ennemi aléatoire a une Prime.",+1&nbsp;Reichweite. Während deines Zuges hat ein zufälliger Gegner ein Kopfgeld.,"+1 al raggio d'azione. Durante il tuo turno, un nemico casuale ha una Taglia.","+1 de alcance. Durante seu turno, um inimigo aleatório passa a conceder uma recompensa.",+1 射程。 在你的回合中，一個隨機敵人擁有賞金。
@@ -2823,9 +2823,9 @@ ARMOR_RHINESTONESTICKERS_NAME,水鑽貼紙,,Adhesivos de diamante falso,Strass c
 ARMOR_RHINESTONESTICKERS_DESC,在每場戰鬥開始時發出4個閃光。,,Emite 4 destellos al inicio de cada combate.,Émet 4&nbsp;étincelles au début de chaque combat.,Versprühe am Anfang jedes Kampfes 4&nbsp;Funken.,Emetti 4 Scintille all'inizio di ogni battaglia.,Emita 4 fagulhas no início de cada batalha.,在每場戰鬥開始時發出4個閃光。
 ARMOR_RUBBERBAND_NAME,橡皮筋,,Goma elástica,Bracelet en caoutchouc,Gummiband,Elastico,Elástico,橡皮筋
 ARMOR_RUBBERBAND_DESC,+1 射程。,,+1 de extensión.,Allonge +1.,+1&nbsp;Reichweite.,+1 alla portata.,+1 de alcance.,+1 射程。
-ARMOR_STEVENMASK1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ARMOR_STEVENMASK1_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ARMOR_STEVENMASK1_DESC,你的音樂技能總是雙倍施放。,,Las habilidades musicales siempre se duplican.,Vos compétences musicales sont toujours lancées deux fois.,Deine Musikfähigkeiten werden immer zweimal gewirkt.,Le tue abilità musicali vengono sempre lanciate due volte.,Suas habilidade musicais são sempre lançadas duas vezes.,你的音樂技能總是雙倍施放。
-ARMOR_STEVENMASK2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+ARMOR_STEVENMASK2_NAME,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ARMOR_STEVENMASK2_DESC,當你倒地時，每回合結束時生成一個隨機被魅惑的敵方召喚獸。,,"Mientras está abatida, esta unidad genera un familiar enemigo embrujado al azar al final de cada ronda.","K.O., un familier envoûté ennemi aléatoire est invoqué à la fin de chaque manche.","Während du ohnmächtig bist, rufst du am Ende jeder Runde einen zufälligen freundlichen Gegner.","Mentre sei KO, generi un famiglio nemico ammaliato casuale alla fine di ogni round.","Enquanto estiver inconsciente, gere um familiar inimigo enfeitiçado aleatório no final de cada rodada.",當你倒地時，每回合結束時生成一個隨機被魅惑的敵方召喚獸。
 ARMOR_STEVENSFARTFACE_NAME,Steven的屁臉,,Caraculo de Steven,Face de pet de Steven,Stevens Furzgesicht,Faccia da Peto di Steven,Cara de Pum de Steve,Steven的屁臉
 ARMOR_STEVENSFARTFACE_DESC,回合結束時，對所有單位施加中毒1。每進行一次回合，重複此效果。,,"Al final del turno, inflige 1 de veneno a todas las unidades. Se repite en cada turno que haya jugado en ese combate.","À la fin de votre tour, inflige Poison +1&nbsp;à toutes les unités. Se répète pour chaque tour que vous avez joué ce combat-ci.","Am Ende deiner Runde verursachst du bei allen Einheiten Gift&nbsp;1. Wird für jeden Zug, den du in diesem Kampf ausgeführt hast, wiederholt.","Alla fine del tuo turno, infliggi Veleno 1 a tutte le unità. Ripeti per ogni turno che hai completato in questa battaglia.","No final do seu turno, aplique veneno 1 em todas as unidades. Repita isto para cada turno que você utilizou nesta batalha.",回合結束時，對所有單位施加中毒1。 每進行一次回合，重複此效果。
@@ -2970,11 +2970,11 @@ SETBONUS_BARBED_NAME,帶刺套裝加成！,,¡Bonificación de conjunto de espin
 SETBONUS_BARBED_DESC,+3 荊棘。,,+3 de espinas.,Épines +3.,+3&nbsp;Dornen.,+3 Spine.,+3 de espinhos.,+3 荊棘。
 ,,,,,,,,
 ARMOR_BIGROCKHAT_NAME,大岩石帽,,Sombrero de roca grande,Chapeau rocher,Großer Steinhelm,Cappello di Roccia Grande,Chapéu de Pedra Grande,大岩石帽
-ARMOR_BIGROCKHAT_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,Brace 2.
+ARMOR_BIGROCKHAT_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,護甲 2。
 ARMOR_BIGROCKMASK_NAME,大巖面具,,Máscara de roca grande,Masque rocher,Große Steinmaske,Maschera di Roccia Grande,Máscara de Pedra Grande,大巖面具
-ARMOR_BIGROCKMASK_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,Brace 2.
+ARMOR_BIGROCKMASK_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,護甲 2。
 ARMOR_BIGROCKNECKLACE_NAME,大巖項鍊,,Gargantilla de roca grande,Collier rocher,Großes Steinhalsband,Collana di Roccia Grande,Colar de Pedra Grande,大巖項鍊
-ARMOR_BIGROCKNECKLACE_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,Brace 2.
+ARMOR_BIGROCKNECKLACE_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,護甲 2。
 SETBONUS_BIGROCK_NAME,大巖套裝加成！,,¡Bonificación de conjunto de roca grande!,Bonus d'ensemble&nbsp;: rocher&nbsp;!,Setbonus: Große Steine!,Bonus Set: Roccia Grande!,Bônus de Conjunto de Pedra Grande!,大巖套裝加成！
 SETBONUS_BIGROCK_DESC,在每場戰鬥開始時生成2個被魅惑的地質精靈。,,Genera 2 petráqueos embrujados al inicio de cada combate.,Invoque 2&nbsp;racaillots envoûtés au début de chaque combat.,Rufe am Anfang jedes Kampfes 2 freundliche Steinkleins.,Generi 2 Geotipi Ammaliati all'inizio di ogni battaglia.,Gere 2 granitoides enfeitiçados no início de cada batalha.,在每場戰鬥開始時生成2個被魅惑的地質精靈。
 ,,,,,,,,
@@ -4222,8 +4222,8 @@ ARMOR_SPACEBOOSTERS_DESC,你的移動動作是跳躍。,,La acción de movimient
 SETBONUS_SPACE_NAME,太空套裝加成！,,¡Bonificación de conjunto espacial!,Bonus d'ensemble&nbsp;: spatial&nbsp;!,Setbonus: Astronautenrüstung!,Bonus Set: Spaziale!,Bônus de Conjunto de,太空套裝加成！
 SETBONUS_SPACE_DESC,你的移動動作變為跳躍。你落腳的單位會受到傷害。,,La acción de movimiento se convierte en un salto. Las unidades sobre las que cae sufren daño.,Votre action de déplacement devient Saut. Les unités sur lesquelles vous atterrissez subissent des dégâts.,"Deine Bewegungsaktion wird ein Sprung. Einheiten, auf denen du landest, erleiden Schaden.",La tua azione di movimento è Salto. Le unità su cui atterri subiscono danno.,Sua ação de movimento é um salto. Unidades nas quais você cai em cima sofrem dano.,你的移動動作變為跳躍。 你落腳的單位會受到傷害。
 ,,,,,,,,
-SETBONUS_STEVEN_NAME,史蒂文套裝加成！,,¡Bonificación de conjunto de Steven!,Bonus d'ensemble&nbsp;: Steven&nbsp;!,Setbonus: Steven!,Bonus Set: Steven!,Bônus de Conjunto de Steven!,史蒂文套裝加成！
-SETBONUS_STEVEN_DESC,你的名字現在是史蒂文！你好，史蒂文！,,"Ahora te llamas Steven. ¡Hola, Steven!","Vous vous appelez Steven, maintenant&nbsp;! Salut, Steven&nbsp;!","Du heißt jetzt Steven! Hallo, Steven!","Ora ti chiami Steven! Ciao, Steven!","Agora seu nome é Steven! Olá, Steven!",你的名字現在是史蒂文！你好，史蒂文！
+SETBONUS_STEVEN_NAME,史蒂文套裝加成！,,¡Bonificación de conjunto de Steven!,Bonus d'ensemble&nbsp;: Steven&nbsp;!,Setbonus: Steven!,Bonus Set: Steven!,Bônus de Conjunto de Steven!,Steven套裝加成！
+SETBONUS_STEVEN_DESC,你的名字現在是史蒂文！你好，史蒂文！,,"Ahora te llamas Steven. ¡Hola, Steven!","Vous vous appelez Steven, maintenant&nbsp;! Salut, Steven&nbsp;!","Du heißt jetzt Steven! Hallo, Steven!","Ora ti chiami Steven! Ciao, Steven!","Agora seu nome é Steven! Olá, Steven!",你的名字現在是Steven！你好，Steven！
 ,,,,,,,,
 ARMOR_STUNNINGHAIRCUT_NAME,驚豔髮型,,Peinado deslumbrante,Chevelure époustouflante,Atemberaubende Frisur,Acconciatura Sbalorditiva,Corte de Cabelo Impressionante,驚豔髮型
 ARMOR_STUNNINGHAIRCUT_DESC,你的面部和頸部裝備效果翻倍。,,Se duplican los efectos de los objetos para la cara y el cuello.,Les effets de vos objets équipés au visage et au cou sont doublés.,Die Effekte deiner Gesichtsbedeckung und Halsrüstung werden verdoppelt.,Gli effetti dei tuoi oggetti per viso e collo sono raddoppiati.,Os efeitos de seus itens de rosto e pescoço são dobrados.,你的面部和頸部裝備效果翻倍。
@@ -4672,9 +4672,9 @@ Seu ataque básico aplica veneno.","相鄰單位在其回合結束時遠離你�
 你的基礎攻擊會造成中毒。"
 ITEM_SLAGTIGHT_NAME,渣滓緊握,,Estala gtita,Stalactite,Fetter Stamm,Stala Gtite,Colante de Escória,渣滓緊握
 ITEM_SLAGTIGHT_DESC,Brace 1。你的基本攻擊造成 Bruise 1。,,1 de refuerzo. El ataque básico inflige 1 de moratón.,Garde +1. Votre attaque de base inflige Contusion +1.,Wappnen&nbsp;1. Dein Grundangriff verursacht Beulen&nbsp;1.,Guardia 1. Il tuo attacco base infligge Livido 1.,Preparação 1. Seu ataque básico aplica contusão 1.,Brace 1。 你的基本攻擊造成 Bruise 1。
-ITEM_SPLINTERS_NAME,Splinters,,Astillas,Échardes,Splitter,Schegge,Lascas,Splinters
+ITEM_SPLINTERS_NAME,Splinters,,Astillas,Échardes,Splitter,Schegge,Lascas,碎片
 ITEM_SPLINTERS_DESC,,,,,,,,
-ITEM_VIBRATINGMETEORITE_NAME,Vibrating Meteorite,,Meteorito vibrante,Météorite vibrante,Vibrierender Meteorit,Meteorite Vibrante,Meteorito Vibrante,Vibrating Meteorite
+ITEM_VIBRATINGMETEORITE_NAME,Vibrating Meteorite,,Meteorito vibrante,Météorite vibrante,Vibrierender Meteorit,Meteorite Vibrante,Meteorito Vibrante,振動隕石
 ITEM_VIBRATINGMETEORITE_DESC,該物品在每場戰鬥結束時永久減少各屬性 1。[s:.7](這可能變成負數。)[/s],,"Este objeto pierde 1 de cada atributo al final de cada combate, para siempre.
 [s:.7](Puede hacerse negativo).[/s]","Cet objet perd 1&nbsp;point de chaque stat à la fin de chaque combat de façon permanente.
 [s:.7](Les stats peuvent devenir négatives.)[/s]","Dieser Gegenstand verliert am Ende jedes Kampfes dauerhaft 1 von jedem Attribut.
@@ -4683,25 +4683,25 @@ ITEM_VIBRATINGMETEORITE_DESC,該物品在每場戰鬥結束時永久減少各屬
 [s:.7](É possível atingir valores negativos.)[/s]",該物品在每場戰鬥結束時永久減少各屬性 1。 [s:.7](這可能變成負數。 )[/s]
 ,,,,,,,,
 //quest,,,,,,,,
-ARMOR_ANGRYFACE_NAME,Angry Face,,Carita enfadada,Visage en rogne,Wütendes Gesicht,Faccia Arrabbiata,Rosto Irritado,Angry Face
+ARMOR_ANGRYFACE_NAME,Angry Face,,Carita enfadada,Visage en rogne,Wütendes Gesicht,Faccia Arrabbiata,Rosto Irritado,怒臉
 ARMOR_ANGRYFACE_DESC,支線任務物品。裝備的貓是敵人，必須擊倒才能贏得戰鬥，並且仍可升級。不能裝備在無項圈貓上。,,"Objeto de misión secundaria. El gato equipado es enemigo, debe estar abatido para ganar el combate, y aún puede recibir subidas de nivel. Los gatos sin collar no pueden equiparse con este objeto.","Objet de quête secondaire. Le chat équipé est un ennemi, il doit être tué pour gagner le combat et peut toujours monter de niveau. Inéquipable sur un chat sans collier.","Nebenquestgegenstand. Die Katze, die diesen Gegenstand ausgerüstet hat, ist ein Gegner. Sie muss besiegt werden, um den Kampf zu gewinnen und kann trotzdem aufleveln. Klassenlose Katzen können dies nicht ausrüsten.","Oggetto per missione secondaria. Il gatto equipaggiato è un nemico, va messo KO per vincere la battaglia e può comunque salire di livello. Non può essere equipaggiata su un gatto Senza Collare.","Item de missão secundária. O gato que equipar este item se torna um inimigo e precisa ficar inconsciente para que você vença a batalha, mas ainda pode subir de nível. Não pode ser equipado com um gato sem coleira.",支線任務物品。 裝備的貓是敵人，必須擊倒才能贏得戰鬥，並且仍可升級。 不能裝備在無項圈貓上。
-ARMOR_ANGRYFACE_FIXED_NAME,Happy Face,,Carita sonriente,Visage enjoué,Lachendes Gesicht,Faccia Felice,Rosto Feliz,Happy Face
+ARMOR_ANGRYFACE_FIXED_NAME,Happy Face,,Carita sonriente,Visage enjoué,Lachendes Gesicht,Faccia Felice,Rosto Feliz,笑臉
 ARMOR_ANGRYFACE_FIXED_DESC,每場戰鬥開始時在敵人附近生成並獲得一次 AI 控制的額外回合。,,Genera enemigos cercanos y juega un turno de bonificación controlado por la IA al inicio de cada combate.,Vous apparaissez près des ennemis et effectuez un tour bonus contrôlé par l'IA au début de chaque combat.,Du beginnst den Kampf in der Nähe von Gegnern und führst am Anfang jedes Kampfes einen zusätzlichen computergesteuerten Zug aus.,Si genera vicino ai nemici e ti consente di effettuare un turno bonus controllato dall'IA all'inizio di ogni battaglia.,Gere inimigos próximos e obtenha um turno sob controle do computador no início de cada batalha.,每場戰鬥開始時在敵人附近生成並獲得一次 AI 控制的額外回合。
-ARMOR_BUBBLEBOY_NAME,Bubble Boy,,Niño Burbuja,Bulle protectrice,Bubble Boy,Ragazzo Bolla,Menino Bolha,Bubble Boy
+ARMOR_BUBBLEBOY_NAME,Bubble Boy,,Niño Burbuja,Bulle protectrice,Bubble Boy,Ragazzo Bolla,Menino Bolha,泡泡男孩
 ARMOR_BUBBLEBOY_DESC,支線任務物品。所有單位接觸時反彈，附帶 Knockback 5 效果。,,Objeto de misión secundaria. Todas las unidades rebotan con 5 de retroceso al contactar.,Objet de quête secondaire. Toutes les unités subissent Recul +5&nbsp;au contact.,Nebenquestgegenstand. Alle Einheiten auf der Karte werden bei Kontakt mit Rückstoß&nbsp;5 zurückgestoßen.,Oggetto per missione secondaria. Tutte le unità rimbalzano con Contraccolpo 5 al contatto.,Item de missão secundária. Todas as unidades ricocheteiam com empurrão 5 ao entrar em contato.,支線任務物品。 所有單位接觸時反彈，附帶 Knockback 5 效果。
-ARMOR_CHAOSDEVICE_NAME,Chaos Device,,Dispositivo del caos,Outil du chaos,Chaosgerät,Dispositivo del Caos,Dispositivo do Caos,Chaos Device
+ARMOR_CHAOSDEVICE_NAME,Chaos Device,,Dispositivo del caos,Outil du chaos,Chaosgerät,Dispositivo del Caos,Dispositivo do Caos,混沌裝置
 ARMOR_CHAOSDEVICE_DESC,支線任務物品。任何貓升級時都會獲得所有職業的技能。,,"Objeto de misión secundaria. Cuando cualquier gato sube de nivel, se le ofrece habilidades de todas las clases.","Objet de quête secondaire. Quand un chat monte de niveau, des compétences de toutes classes lui sont proposées.","Nebenquestgegenstand. Wenn Katzen aufleveln, erscheinen Fähigkeiten einer beliebigen Klasse zum Auswählen.","Oggetto per missione secondaria. Quando un gatto sale di livello, gli vengono offerte abilità di tutte le classi.","Item de missão secundária. Quando qualquer gato sobe de nível, habilidades de todas as classes são oferecidas.",支線任務物品。 任何貓升級時都會獲得所有職業的技能。
-ARMOR_CHAOSDEVICE_FIXED_NAME,Chaos Controller,,Mando del caos,Contrôle du chaos,Chaossteuerung,Controllore del Caos,Controlador do Caos,Chaos Controller
+ARMOR_CHAOSDEVICE_FIXED_NAME,Chaos Controller,,Mando del caos,Contrôle du chaos,Chaossteuerung,Controllore del Caos,Controlador do Caos,混沌控制器
 ARMOR_CHAOSDEVICE_FIXED_DESC,升級時提供所有職業的技能選項。你可以重選升級選項三次。,,Se ofrecen habilidades de todas las clases al subir de nivel. Se pueden cambiar al azar tres veces las opciones de subida de nivel.,Des compétences de toutes classes vous sont proposées quand vous montez de niveau. Vous pouvez tirer de nouvelles options jusqu'à 3&nbsp;fois.,"Wenn Katzen aufleveln, erscheinen Fähigkeiten einer beliebigen Klasse zum Auswählen. Du kannst deine Auswahlmöglichkeiten dreimal neu generieren, wenn du ein Level aufsteigst.",Ti vengono offerte abilità di tutte le classi quando sali di livello. Puoi modificare le tue scelte per tre volte.,Habilidades de todas as classes são oferecidas ao subir de nível. Você pode rolar suas opções novamente três vezes.,升級時提供所有職業的技能選項。 你可以重選升級選項三次。
 ARMOR_EXPERIMENTALTREATMENT_NAME,實驗性治療,,Tratamiento Experimental,Traitement expérimental,Experimentelle Behandlung,Trattamento Sperimentale,Tratamento Experimental,實驗性治療
 ARMOR_EXPERIMENTALTREATMENT_DESC,支線任務物品。你隊伍的被動能力升級改為提供障礙效果。,,Objeto de misión secundaria. La habilidad pasiva del grupo ofrece trastornos al subir de nivel.,Objet de quête secondaire. Des troubles vous sont proposés quand la compétence passive de votre équipe monte de niveau.,"Nebenquestgegenstand. Wenn du normalerweise Passivfähigkeiten aufleveln würdest, kannst du stattdessen Störungen erhalten.",Oggetto per missione secondaria. Gli aumenti di livello delle abilità passive della tua squadra sono dei disturbi.,Item de missão secundária. Os novos níveis das habilidades passivas de sua equipe passam a oferecer transtornos.,支線任務物品。 你隊伍的被動能力升級改為提供障礙效果。
-ARMOR_EXPERIMENTALTREATMENT_FIXED_NAME,Disorder Decoder,,Descodificador de Trastornos,Décodeur de troubles,Entstörungssender,Decodificatore di Disturbi,Decodificador de Transtornos,Disorder Decoder
+ARMOR_EXPERIMENTALTREATMENT_FIXED_NAME,Disorder Decoder,,Descodificador de Trastornos,Décodeur de troubles,Entstörungssender,Decodificatore di Disturbi,Decodificador de Transtornos,失序解碼器
 ARMOR_EXPERIMENTALTREATMENT_FIXED_DESC,你的法術每有一個障礙，消耗減少 1。,,Sus hechizos cuestan 1 menos por cada trastorno que sufre esta unidad.,Vos sorts coûtent -1&nbsp;mana pour chaque trouble qui vous affecte.,"Deine Zauber kosten pro Störung, unter der du leidest, 1&nbsp;Mana weniger.",I tuoi incantesimi costano 1 in meno per ogni disturbo che hai.,Seus encantamentos custam 1 a menos para cada transtorno que você possui.,你的法術每有一個障礙，消耗減少 1。
-ARMOR_FARTFACE_NAME,Fart Face,,Caraculo,Face de pet,Furzgesicht,Faccia da Peto,Cara de Pum,Fart Face
+ARMOR_FARTFACE_NAME,Fart Face,,Caraculo,Face de pet,Furzgesicht,Faccia da Peto,Cara de Pum,屁臉
 ARMOR_FARTFACE_DESC,支線任務物品。戰鬥開始時對所有單位施加 Poison 1。,,Objeto de misión secundaria. Aplica 1 de veneno a todo al inicio del combate.,Objet de quête secondaire. Toutes les unités subissent Poison +1&nbsp;en début de combat.,Nebenquestgegenstand. Verursache am Anfang des Kampfes bei allen Einheiten Gift&nbsp;1.,Oggetto per missione secondaria. Applichi Veleno 1 a tutto all'inizio della battaglia.,Item de missão secundária. Aplique veneno 1 em tudo no início da batalha.,支線任務物品。 戰鬥開始時對所有單位施加 Poison 1。
 ARMOR_FARTFACE_FIXED_NAME,機器人屁臉,,Caraculo robótico,Face de pet robot,Robo-Furzgesicht,Faccia da Peto Robotica,Cara de Pum Robô,機器人屁臉
 ARMOR_FARTFACE_FIXED_DESC,在戰鬥開始時對所有敵人施加毒素1。,,Aplica 1 de veneno a todos los enemigos al inicio del combate.,Tous les ennemis subissent Poison +1&nbsp;en début de combat.,Verursache am Anfang des Kampfes bei allen Gegnern Gift&nbsp;1.,Applica Veleno 1 a tutti i nemici all'inizio della battaglia.,Aplique veneno 1 em todos os inimigos no início da batalha.,在戰鬥開始時對所有敵人施加毒素1。
-ARMOR_GUILLOTINASHEAD_NAME,斷頭台的頭顱,,Cabeza de Guillotina,Tête de Guillotina,Guillotinas Kopf,Testa di Guillotina,Cabeça de Guilhotina,斷頭台的頭顱
+ARMOR_GUILLOTINASHEAD_NAME,斷頭台的頭顱,,Cabeza de Guillotina,Tête de Guillotina,Guillotinas Kopf,Testa di Guillotina,Cabeça de Guilhotina,Guillotina的頭顱
 ARMOR_GUILLOTINASHEAD_DESC,"將它帶到脈動領域的肉祭壇。
 所有戰鬥都是困難戰鬥。敵人如果可以，會優先攻擊你而非你的盟友。與您接觸或攻擊您的單位有機會被恐懼。你的基礎攻擊有+10%機會造成恐懼。",,"Hay que llevarla al altar de carne, en el Dominio Palpitante.
 Todos los combates se libran en modo Difícil. Si pueden, los enemigos atacarán a esta unidad en vez de a sus aliados. Las unidades que entren en contacto con ella o la ataquen pueden sufrir miedo. El ataque básico tiene +10 % de probabilidad de infligir miedo.","Amenez-la à l'Autel de chair dans le Domaine lancinant.
@@ -4959,8 +4959,8 @@ ITEM_PERSUASIONDEVICE_FIXED_DESC,"用於永久魅惑非Boss敵人。它會加入
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Use para enfeitiçar permanentemente um inimigo que não seja um chefe. Ele passa a fazer parte da sua equipe.
 [s:.7](Um uso por batalha.)[/s]","用於永久魅惑非Boss敵人。 它會加入你的隊伍。
 [s:.7](每場戰鬥可使用一次。 )[/s]"
-ITEM_PYROPHINASCOLLAR_NAME,火焰菲娜的項圈,,Collar de Pyrophina,Collier de Pyrophina,Pyrophinas Halsband,Collare di Pyrophina,Coleira de Pyrophina,火焰菲娜的項圈
-ITEM_PYROPHINASCOLLAR_DESC,火焰菲娜加入了你的旅程。她希望啟用月球上的方尖碑。,,Pyrophina se une a la aventura con el deseo de activar un obelisco en la luna.,Pyrophina se joint à vous. Elle souhaite activer un obélisque sur la lune.,Pyrophina begleitet dich auf deiner Reise. Sie möchte einen Obelisk auf dem Mond aktivieren.,Pyrophina si unisce a te nel tuo viaggio. Vuole attivare un obelisco sulla luna.,Pyrophina se junta a você em sua jornada. Ela deseja ativar um obelisco na Lua.,火焰菲娜加入了你的旅程。 她希望啟用月球上的方尖碑。
+ITEM_PYROPHINASCOLLAR_NAME,火焰菲娜的項圈,,Collar de Pyrophina,Collier de Pyrophina,Pyrophinas Halsband,Collare di Pyrophina,Coleira de Pyrophina,Pyrophina的項圈
+ITEM_PYROPHINASCOLLAR_DESC,火焰菲娜加入了你的旅程。她希望啟用月球上的方尖碑。,,Pyrophina se une a la aventura con el deseo de activar un obelisco en la luna.,Pyrophina se joint à vous. Elle souhaite activer un obélisque sur la lune.,Pyrophina begleitet dich auf deiner Reise. Sie möchte einen Obelisk auf dem Mond aktivieren.,Pyrophina si unisce a te nel tuo viaggio. Vuole attivare un obelisco sulla luna.,Pyrophina se junta a você em sua jornada. Ela deseja ativar um obelisco na Lua.,Pyrophina加入了你的旅程。 她希望啟用月球上的方尖碑。
 ITEM_SCALDINGORB_NAME,燙傷球,,Orbe abrasador,Orbe brûlant,Siedende Kugel,Sfera Rovente,Orbe Escaldante,燙傷球
 ITEM_SCALDINGORB_DESC,"餵給月亮人。
 投擲給武器欄有空位的隊友以避免每回合受到燃燒3！
@@ -5031,8 +5031,8 @@ Todas as unidades morrem ao ficarem inconscientes.
 Uso: um ataque corpo-a-corpo que transforma coisas que mata em carne.","將它帶到洞穴中的肉牆。
 所有單位倒地時都會死亡。
 使用：一次近戰攻擊，將被殺死的目標變成肉。"
-ITEM_ZARATANASCOLLAR_NAME,扎拉塔納的項圈,,Collar de Zaratana,Collier de Zaratana,Zaratanas Halsband,Collare di Zaratana,Coleira de Zaratana,扎拉塔納的項圈
-ITEM_ZARATANASCOLLAR_DESC,扎拉塔納加入你的旅程。她希望啟用核心中的方尖碑。,,Zaratana se une a la aventura con el deseo de activar un obelisco en el núcleo.,Pyrophina se joint à vous. Elle souhaite activer un obélisque dans le Noyau.,Zaratana begleitet dich auf deiner Reise. Sie möchte einen Obelisk im Kern aktivieren.,Zaratana si unisce a te nel tuo viaggio. Vuole attivare un obelisco nel Nucleo.,Zaratana se junta a você em sua jornada. Ela deseja ativar um obelisco no Núcleo.,扎拉塔納加入你的旅程。 她希望啟用核心中的方尖碑。
+ITEM_ZARATANASCOLLAR_NAME,扎拉塔納的項圈,,Collar de Zaratana,Collier de Zaratana,Zaratanas Halsband,Collare di Zaratana,Coleira de Zaratana,Zaratana的項圈
+ITEM_ZARATANASCOLLAR_DESC,扎拉塔納加入你的旅程。她希望啟用核心中的方尖碑。,,Zaratana se une a la aventura con el deseo de activar un obelisco en el núcleo.,Pyrophina se joint à vous. Elle souhaite activer un obélisque dans le Noyau.,Zaratana begleitet dich auf deiner Reise. Sie möchte einen Obelisk im Kern aktivieren.,Zaratana si unisce a te nel tuo viaggio. Vuole attivare un obelisco nel Nucleo.,Zaratana se junta a você em sua jornada. Ela deseja ativar um obelisco no Núcleo.,Zaratana加入你的旅程。 她希望啟用核心中的方尖碑。
 ,,,,,,,,
 //class,,,,,,,,
 ITEM_MEATHOOK_NAME,肉鉤,,Gancho para carne,Crochet à viande,Fleischhaken,Gancio da Macellaio,Gancho de Carne,肉鉤

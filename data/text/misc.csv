@@ -677,7 +677,7 @@ CAT_NAME_MOD_DEMONIC,邪惡的 [m:{Catname}],,{Catname} infame,{Catname} (maléf
 CAT_NAME_MOD_DEMONIC_M,,,,,,,,
 CAT_NAME_MOD_DEMONIC_F,,,,,,,,
 CAT_NAME_MOD_DEMONIC_N,,,,,,,,
-CAT_NAME_MOD_STEVEN,史蒂文|-999,,Steven|-999,Steven|-999,Steven|-999,Steven|-999,Steven|-999,史蒂文|-999
+CAT_NAME_MOD_STEVEN,史蒂文|-999,,Steven|-999,Steven|-999,Steven|-999,Steven|-999,Steven|-999,Steven|-999
 CAT_NAME_MOD_DWARF,小[ m:{Catname}]|3,,Peque {Catname}|3,{Catname} (minus)|3,Little {Catname}|3,,,小[ m:{Catname}]|3
 CAT_NAME_MOD_DWARF_M,,,,,,Piccolo {Catname}|3,{Catname} pequeno|3,
 CAT_NAME_MOD_DWARF_F,,,,,,Piccola {Catname}|3,{Catname} pequena|3,

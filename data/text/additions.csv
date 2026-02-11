@@ -264,13 +264,13 @@ NPCOFFICE_NAME_STEVEN,盒子,,La Caja,La Boîte,Die Box,La Scatola,A Caixa,盒�
 NPCMAP_NAME_HOME,家,,Casa,Maison,Haus,Casa,Casa,家
 NPCMAP_NAME_TRASH,垃圾,,Basura,Poubelle,Müll,Spazzatura,Lixo,垃圾
 NPC_NAME_BEANIES,Beanies博士,,Dr. Beanies,Dr Beanies,Dr. Beanies,Dr. Beanies,Dr. Beanies,Beanies博士
-NPC_NAME_BUTCH,布奇,,Butch,Butch,Butch,Butch,Butch,布奇
-NPC_NAME_TINK,丁克,,Tink,Tink,Tink,Tink,Tink,丁克
-NPC_NAME_FRANK,弗蘭克,,Frank,Franck,Frank,Frank,Frank,弗蘭克
-NPC_NAME_JACK,小杰克,,Bebé Jack,Bébé Jack,Baby Jack,Baby Jack,Bebê Jack,小杰克
-NPC_NAME_TRACY,特蕾西,,Tracy,Tracy,Tracy,Tracy,Tracy,特蕾西
+NPC_NAME_BUTCH,布奇,,Butch,Butch,Butch,Butch,Butch,Butch
+NPC_NAME_TINK,丁克,,Tink,Tink,Tink,Tink,Tink,Tink
+NPC_NAME_FRANK,弗蘭克,,Frank,Franck,Frank,Frank,Frank,Frank
+NPC_NAME_JACK,小杰克,,Bebé Jack,Bébé Jack,Baby Jack,Baby Jack,Bebê Jack,Baby Jack
+NPC_NAME_TRACY,特蕾西,,Tracy,Tracy,Tracy,Tracy,Tracy,Tracy
 NPC_NAME_ORGANGRINDER,{organname},,{organname},{organname},{organname},{organname},{organname},{organname}
-NPC_NAME_STEVEN,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+NPC_NAME_STEVEN,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 ,,,,,,,,
 NPC_MORETIPS_BUTTON,另一個提示！,,¡Otro consejo!,Une autre astuce&nbsp;!,Noch ein Tipp!,Un altro consiglio!,Outra dica!,另一個提示！
 ,,,,,,,,
@@ -311,13 +311,13 @@ CREDITS_PROGRAMMINGB,額外程式設計由,,Programación adicional de,Programma
 CREDITS_CHARACTERSHEADER,另有...,,Y con...,Mais aussi...,Featuring&nbsp;…,Con la partecipazione di...,Com a participação de...,另有...
 CREDITS_CHARACTER_BEANIES,Thomas A. Beanies 博士,,Dr. Thomas A. Beanies,Dr Thomas A. Beanies,Dr. Thomas A. Beanies,Dottor Thomas A. Beanies,Dr. Thomas A. Beanies,Thomas A. Beanies 博士
 CREDITS_CHARACTER_STACY,Stacy #{stacy_number},,Stacy {stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number}
-CREDITS_CHARACTER_BUTCH,布奇,,Butch,Butch,Butch,Butch,Butch,布奇
+CREDITS_CHARACTER_BUTCH,布奇,,Butch,Butch,Butch,Butch,Butch,Butch
 CREDITS_CHARACTER_TINK,Ferguson Rodney Tinkles,,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles
-CREDITS_CHARACTER_FRANK,弗蘭克,,Frank,Franck,Frank,Frank,Frank,弗蘭克
+CREDITS_CHARACTER_FRANK,弗蘭克,,Frank,Franck,Frank,Frank,Frank,Frank
 CREDITS_CHARACTER_BABYJACK,Jackie Dustin Nickel,,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel
 CREDITS_CHARACTER_TRACY,Tracy Newkirk,,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk
 CREDITS_CHARACTER_ORGANGRINDER,{organname},,{organname},{organname},{organname},{organname},{organname},{organname}
-CREDITS_CHARACTER_STEVEN,史蒂文,,Steven,Steven,Steven,Steven,Steven,史蒂文
+CREDITS_CHARACTER_STEVEN,史蒂文,,Steven,Steven,Steven,Steven,Steven,Steven
 CREDITS_CHARACTER_HEADERB,並且還包括...,,Y con...,Ainsi que...,Und&nbsp;…,E con...,E também...,並且還包括...
 CREDITS_CHARACTER_PLAYERCHARACTER,"你作為
 Magdalene O. Moriah",,"Tú, como

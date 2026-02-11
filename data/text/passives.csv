@@ -475,7 +475,7 @@ PASSIVE_GRAPPLINGHOOK_DESC,你的鉤爪將你拉向免疫擊退的物體。,,El 
 PASSIVE_GRAPPLINGHOOK2_DESC,你的鉤爪將你拉向免疫擊退的物體。使用鉤爪時重新整理你的移動動作。,,"El gancho acerca a esta unidad hacia objetos inmunes al retroceso. Cuando se utiliza, restaura la acción de movimiento. ",Votre crochet vous tire vers les objets immunisés au recul. Réinitialise votre action de déplacement quand vous utilisez votre crochet.,"Dein Haken kann dich zu Objekten ziehen, die immun gegen Rückstoß sind. Deine Bewegungsaktion frischt sich auf, wenn du deinen Haken benutzt. ",Il tuo gancio ti trascina verso oggetti immuni al contraccolpo. Quando usi il gancio ricarichi la tua azione di movimento.,Seu gancho puxa você na direção de objetos imunes contra empurrões. Reinicie sua ação de movimento ao utilizar seu gancho.,你的鉤爪將你拉向免疫擊退的物體。 使用鉤爪時重新整理你的移動動作。
 PASSIVE_GRAPPLINGHOOK_MULTICLASS_DESC,你的武器將你拉向免疫擊退的物體。,,El arma acerca a esta unidad hacia objetos inmunes al retroceso.,Votre arme vous tire vers les objets immunisés au recul.,"Deine Waffe kann dich zu Objekten ziehen, die immun gegen Rückstoß sind.",La tua arma ti trascina verso oggetti immuni al contraccolpo.,Sua arma puxa você na direção de objetos imunes contra empurrões.,你的武器將你拉向免疫擊退的物體。
 PASSIVE_GRAPPLINGHOOK2_MULTICLASS_DESC,你的武器將你拉向免疫擊退的物體。使用武器時重新整理你的移動動作。,,"El arma acerca a esta unidad hacia objetos inmunes al retroceso. Cuando se utiliza, restaura la acción de movimiento. ",Votre arme vous tire vers les objets immunisés au recul. Réinitialise votre action de déplacement quand vous utilisez votre arme.,"Deine Waffe kann dich zu Objekten ziehen, die immun gegen Rückstoß sind. Deine Bewegungsaktion frischt sich auf, wenn du deinen Haken benutzt. ",La tua arma ti trascina verso oggetti immuni al contraccolpo. Quando usi l'arma ricarichi la tua azione di movimento.,Sua arma puxa você na direção de objetos imunes contra empurrões. Reinicie sua ação de movimento ao utilizar sua arma.,你的武器將你拉向免疫擊退的物體。 使用武器時重新整理你的移動動作。
-PASSIVE_PAINGAIN_NAME,Rankle,,Irritación,Irritable,Ärger,Astio,Rabugice,Rankle
+PASSIVE_PAINGAIN_NAME,Rankle,,Irritación,Irritable,Ärger,Astio,Rabugice,激怒
 PASSIVE_PAINGAIN_DESC,受到傷害時，獲得+2臨時傷害。,,"Al sufrir daño, obtiene +2 de daño temporal.",Dégâts temporaires&nbsp;+2&nbsp;quand vous subissez des dégâts.,"Erhalte +2&nbsp;vorübergehenden Schaden, wenn du Schaden erleidest.","Quando subisci danno, ottieni +2 al Danno Temporaneo.","Ao sofrer dano, obtenha +2 de dano temporário.",受到傷害時，獲得+2臨時傷害。
 PASSIVE_PAINGAIN2_DESC,受到傷害時，獲得+1傷害和+1臨時傷害。,,"Al sufrir daño, obtiene +1 de daño y +1 de daño temporal.",Dégâts&nbsp;+1&nbsp;et Dégâts temporaires&nbsp;+1&nbsp;quand vous subissez des dégâts.,"Erhalte +1&nbsp;Schaden und +1&nbsp;vorübergehenden Schaden, wenn du Schaden erleidest.
 ","Quando subisci danno, ottieni +1 al Danno e +1 al Danno Temporaneo.","Ao sofrer dano, obtenha +1 de dano e +2 de dano temporário.",受到傷害時，獲得+1傷害和+1臨時傷害。
@@ -2533,7 +2533,7 @@ DISORDER_LYCANTHROPY_NAME,狼人症,,Licantropía,Lycanthropie,Lykanthropie,Lica
 DISORDER_LYCANTHROPY_DESC,你有33%的機率在回合開始時進入狼形態。,,33 % de probabilidad de adoptar la forma del lobo al inicio del turno.,"Au début de votre tour, 33&nbsp;% de chances de vous transformer en loup.","33%ige Wahrscheinlichkeit, am Anfang deines Zuges Wolfsgestalt anzunehmen.",33% di probabilità di assumere le Sembianze del Lupo all'inizio del tuo turno.,33% de chance de mudar para sua forma de lobo no início do seu turno.,你有33%的機率在回合開始時進入狼形態。
 DISORDER_WOBBLYCATSYNDROME_NAME,搖擺症貓,,Hipoplasia cerebelosa,Ataxie féline,Wobbler-Syndrom,Sindrome del Gatto Barcollante,Síndrome do Gato Cambaleante,搖擺症貓
 DISORDER_WOBBLYCATSYNDROME_DESC,25%的機率格擋攻擊並被擊退10格。,,25 % de probabilidad de bloquear ataques y retroceder 10 casillas en su lugar.,25&nbsp;% de chances de bloquer les attaques et de reculer de 10&nbsp;cases.,"25%ige Wahrscheinlichkeit, Angriffe zu blockieren und stattdessen 10&nbsp;Felder zurückgestoßen zu werden.",25% di probabilità di bloccare gli attacchi e di farsi respingere indietro di 10 caselle.,25% de chance de bloquear ataques e sofrer um empurrão de 10 espaços para trás.,25%的機率格擋攻擊並被擊退10格。
-DISORDER_SINGLETON_NAME,Singleton,,Solitario,Exemplaire unique,Singleton,Singolarità,Unidade,Singleton
+DISORDER_SINGLETON_NAME,Singleton,,Solitario,Exemplaire unique,Singleton,Singolarità,Unidade,獨行者
 DISORDER_SINGLETON_DESC,"你的最大生命值和法力值被降低至1。
 你受到的傷害被減少至1。
 你的法術消耗1點法力值。",,"Los PS máximos y el maná se reducen a 1.
@@ -2547,7 +2547,7 @@ O dano que você sofre é reduzido para 1.
 Seus encantamentos custam 1 de mana.","你的最大生命值和法力值被降低至1。
 你受到的傷害被減少至1。
 你的法術消耗1點法力值。"
-DISORDER_INSOMNIA_NAME,Insomnia,,Insomnio,Insomnie.,Schlafstörung,Insonnia,Insônia,Insomnia
+DISORDER_INSOMNIA_NAME,Insomnia,,Insomnio,Insomnie.,Schlafstörung,Insonnia,Insônia,失眠症
 DISORDER_INSOMNIA_DESC,"你無法入睡。
 你每回合可以多行動一次。疲憊將在第3回合生效。",,"No puede dormirse.
 Puede moverse otra vez cada turno. Sufre agotamiento en la ronda 3.",Vous ne pouvez pas vous endormir. Vous pouvez vous déplacer une fois de plus chaque tour. L'Épuisement survient lors de la 3e&nbsp;manche.,"Du kannst nicht einschlafen.
@@ -2555,7 +2555,7 @@ Du kannst dich in jedem Zug ein zusätzliches Mal bewegen. Deine Erschöpfung be
 Puoi muoverti una volta in più ogni turno. La spossatezza subentra al terzo round.","Você não pode cair no sono.
 Você pode se mover uma vez adicional a cada turno. A exaustão se instala na rodada 3.","你無法入睡。
 你每回合可以多行動一次。 疲憊將在第3回合生效。"
-DISORDER_PHONY_NAME,Phony,,Hipocresía,Bidon,Heuchler,Falsità,Cópia,Phony
+DISORDER_PHONY_NAME,Phony,,Hipocresía,Bidon,Heuchler,Falsità,Cópia,偽裝者
 DISORDER_PHONY_DESC,"每場戰鬥開始時法力值全滿。
 你無法恢復法力值。",,"Empieza cada combate con todo el maná.
 No puede regenerar maná.",Vous commencez chaque combat avec tout votre mana. Vous ne pouvez pas récupérer de mana.,"Beginne jeden Kampf mit vollem Mana.
@@ -2563,11 +2563,11 @@ Du kannst kein Mana regenerieren.","Inizi ogni battaglia con mana pieno.
 Non puoi rigenerare il mana.","Inicie cada batalha com mana completa.
 Você não pode regenerar mana.","每場戰鬥開始時法力值全滿。
 你無法恢復法力值。"
-DISORDER_ACIDREFLUX_NAME,Acid Reflux,,Reflujo ácido,Remontées acides,Säure-Reflux,Reflusso Acido,Refluxo,Acid Reflux
+DISORDER_ACIDREFLUX_NAME,Acid Reflux,,Reflujo ácido,Remontées acides,Säure-Reflux,Reflusso Acido,Refluxo,胃酸逆流
 DISORDER_ACIDREFLUX_DESC,你的普通攻擊變成帶有濺射傷害的擲射攻擊，但會對你造成2點傷害。,,"El ataque básico se convierte en un tiro en arco con daño por metralla, pero le inflige 2 de daño a esta unidad.","Votre attaque de base devient une attaque en cloche qui inflige des dégâts collatéraux, mais qui vous inflige 2&nbsp;points de dégâts.","Dein Grundangriff wird ein Fernkampfangriff, der Hindernisse ignoriert und Flächenschaden verursacht. Er fügt dir ebenfalls 2&nbsp;Schaden zu.","Il tuo attacco base diventa un colpo a parabola con danno ad area, ma ti infligge 2 di danno.","Seu ataque básico se torna um disparo em arco com dano em área, mas causa 2 de dano a você.",你的普通攻擊變成帶有濺射傷害的擲射攻擊，但會對你造成2點傷害。
-DISORDER_SPONTANEOUSCOMBUSTION_NAME,Spontaneous Combustion,,Combustión espontánea,Combustion spontanée,Spontane Selbstentzündung,Combustione Spontanea,Combustão Espontânea,Spontaneous Combustion
+DISORDER_SPONTANEOUSCOMBUSTION_NAME,Spontaneous Combustion,,Combustión espontánea,Combustion spontanée,Spontane Selbstentzündung,Combustione Spontanea,Combustão Espontânea,自燃
 DISORDER_SPONTANEOUSCOMBUSTION_DESC,當你受到技能傷害時，有15%的機率對你自己及鄰近單位施加燃燒5。,,"Al sufrir daño de una habilidad, tiene un 15 % de probabilidad de infligir 5 de quemadura a sí misma y a las unidades adyacentes.","Quand vous subissez des dégâts d'une compétence, 15&nbsp;% de chances de vous infliger Brûlure&nbsp;+5&nbsp;ainsi qu'aux unités adjacentes.","Wenn du Schaden von einer Fähigkeit erleidest, besteht eine 15%ige Wahrscheinlichkeit, dass du und benachbarte Einheiten Verbrennung&nbsp;5 erleiden.","Quando subisci danno da un'abilità, hai il 15% di probabilità di infliggere Bruciatura 5 a te e alle unità adiacenti.","Ao sofrer dano de uma habilidade, você possui 15% de chance de aplicar queimadura 5 em si e em unidades adjacentes.",當你受到技能傷害時，有15%的機率對你自己及鄰近單位施加燃燒5。
-DISORDER_THEHUNGER_NAME,The Hunger,,Hambre,La soif,Der Hunger,Fame,A Fome,The Hunger
+DISORDER_THEHUNGER_NAME,The Hunger,,Hambre,La soif,Der Hunger,Fame,A Fome,飢餓
 DISORDER_THEHUNGER_DESC,"你的普通攻擊具有吸血效果。
 如果你在回合內未對單位造成傷害，獲得瘋狂1。",,"El ataque básico tiene robavida.
 Si no inflige daño a una unidad en su turno, obtiene +1 de locura.","Votre attaque de base dispose de Vol de vie. Si vous n'infligez pas de dégâts à une unité pendant votre tour, Folie&nbsp;+1.","Dein Grundangriff kann Leben absaugen.
@@ -2575,7 +2575,7 @@ Wenn du in deinem Zug keiner Einheit Schaden zufügst, erleidest du Wahnsinn&nbs
 Se non infliggi danno a un'unità durante il tuo turno, ottieni Follia 1.","Seu ataque básico possui roubo de vida.
 Se você não causar dano a uma unidade durante seu turno, obtenha insanidade 1.","你的普通攻擊具有吸血效果。
 如果你在回合內未對單位造成傷害，獲得瘋狂1。"
-DISORDER_PARAPELEGIC_NAME,Paraplegic,,Paraplejia,Paraplégique,Querschnittsgelähmt,Paraplegia,Paraplegia,Paraplegic
+DISORDER_PARAPELEGIC_NAME,Paraplegic,,Paraplejia,Paraplégique,Querschnittsgelähmt,Paraplegia,Paraplegia,半身不遂
 DISORDER_PARAPELEGIC_DESC,"除非瞬移，否則你所有移動、衝刺和跳躍技能的距離上限為1。
 敵人不會優先攻擊你。",,"Se limita a 1 el radio de alcance de todo el movimiento y las habilidades de embestida y salto a menos que se utilice el teletransporte.
 Los enemigos no priorizan el ataque a esta unidad.","Les portées de toutes vos compétences de déplacement, d'impulsion et de saut sont limitées à&nbsp;1&nbsp;(sauf pour la téléportation). Vous n'êtes pas une cible prioritaire pour les ennemis.","Die Reichweite deiner Bewegungs-, Ansturm- und Sprungfähigkeiten sind auf 1 begrenzt, wenn es keine Teleports sind.
@@ -2583,7 +2583,7 @@ Gegner priorisieren andere Einheiten mit ihren Angriffen.","Il raggio d'azione d
 I nemici non daranno priorità agli attacchi contro di te.","O alcance de suas habilidades de movimento, impulso e salto possuem um máximo de 1, exceto teletransporte.
 Inimigos não priorizam atacar você.","除非瞬移，否則你所有移動、衝刺和跳躍技能的距離上限為1。
 敵人不會優先攻擊你。"
-DISORDER_OSTEOGENESISIMPERFECTA_NAME,Osteogenesis Imperfecta,,Osteogénesis imperfecta,Maladie des os de verre,Osteogenesis Imperfecta,Osteogenesi Imperfetta,Osteogênese Imperfeita,Osteogenesis Imperfecta
+DISORDER_OSTEOGENESISIMPERFECTA_NAME,Osteogenesis Imperfecta,,Osteogénesis imperfecta,Maladie des os de verre,Osteogenesis Imperfecta,Osteogenesi Imperfetta,Osteogênese Imperfeita,成骨不全症
 DISORDER_OSTEOGENESISIMPERFECTA_DESC,"+2 挫傷，+2 流血荊棘，+2 荊棘。
 當你倒地時，會額外受傷一次。",,"+2 de moratón, +2 de espinas hemorrágicas y +2 de espinas.
 Cuando es abatida, sufre lesiones otra vez.","Contusion&nbsp;+2, Épines sanglantes&nbsp;+2&nbsp;et Épines&nbsp;+2. Lorsque vous êtes K.O., vous recevez une blessure supplémentaire.","+2&nbsp;Beulen, +2&nbsp;Blutige Dornen und +2&nbsp;Dornen.
@@ -2591,9 +2591,9 @@ Wenn du in Ohnmacht fällst, erleidest du eine zusätzliche Verletzung.","+2 Liv
 Quando vai KO, subisci una ferita aggiuntiva.","+2 de contusão, +2 de espinhos de sangramento e +2 de espinhos.
 Ao ficar inconsciente, você obtém um ferimento adicional.","+2 挫傷，+2 流血荊棘，+2 荊棘。
 當你倒地時，會額外受傷一次。"
-DISORDER_GARGANTUAN_NAME,Gargantuan,,Pantagruélico,Gargantuesque,Gigantisch,Gargantuismo,Gigantesco,Gargantuan
+DISORDER_GARGANTUAN_NAME,Gargantuan,,Pantagruélico,Gargantuesque,Gigantisch,Gargantuismo,Gigantesco,巨人症
 DISORDER_GARGANTUAN_DESC,你無法移動。,,Esta unidad permanece inmóvil para siempre.,Vous êtes immobile de façon permanente.,Du bist dauerhaft unbeweglich.,Sei permanentemente immobile.,Você fica permanentemente imóvel.,你無法移動。
-DISORDER_BRAINDEAD_NAME,Brain Dead,,Muerte cerebral,Mort cérébrale,Hirntot,Morte Cerebrale,Morte Cerebral,Brain Dead
+DISORDER_BRAINDEAD_NAME,Brain Dead,,Muerte cerebral,Mort cérébrale,Hirntot,Morte Cerebrale,Morte Cerebral,腦死
 DISORDER_BRAINDEAD_DESC,"升級時獲得雙倍屬性。
 升級時+1次重投。",,Obtiene el doble de atributos cuando sube de nivel. +1 de cambio al azar al subir de nivel.,"Lorsque vous gagnez un niveau, vous gagnez le double de stats. Options&nbsp;+1&nbsp;lorsque vous gagnez un niveau.","Wenn du ein Level aufsteigst, erhältst du doppelt so viele Attribute. Du kannst deine Auswahlmöglichkeiten einmal neu generieren, wenn du ein Level aufsteigst.",Ottieni il doppio delle statistiche quando sali di livello. +1 possibilità di modifica quando sali di livello.,Obtenha duas vezes mais atributos ao subir de nível. +1 chance de rolar novamente ao subir de nível.,"升級時獲得雙倍屬性。
 升級時+1次重投。"
@@ -2639,7 +2639,7 @@ DISORDER_SEVEREDEJAVU_DESC,"史蒂文現在控制了你。
 [s:.7](El déjà vu desaparece cuando la unidad regresa a la casa).[/s]",Steven a pris le contrôle de votre corps. [s:.7]Grave déjà vu disparaît lorsque cette unité retourne à la maison.[/s],"Steven kontrolliert dich jetzt.
 [s:.7]Déjà-vu verschwindet, wenn diese Katze nach Hause zurückkehrt.[/s]","Steven ha ora il controllo su di te.
 [s:.7]Il Déjà Vu scomparirà quando questo gatto tornerà a casa.[/s]","Steven controla você agora.
-[s:.7]Déjà Vu desaparece quando este gato retorna para casa.[/s]","史蒂文現在控制了你。
+[s:.7]Déjà Vu desaparece quando este gato retorna para casa.[/s]","Steven現在控制了你。
 [s:.7]當這隻貓回到屋內時，似曾相識的感覺將消失。 [/s]"
 DISORDER_DOWNSSYNDROME_NAME,唐氏綜合症,,Síndrome de Down,Trisomie&nbsp;21,Down-Syndrom,Sindrome di Down,Síndrome de Down,唐氏綜合症
 DISORDER_DOWNSSYNDROME_DESC,,,,,,,,
