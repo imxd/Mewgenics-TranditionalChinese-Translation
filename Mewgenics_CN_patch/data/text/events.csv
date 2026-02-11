@@ -4682,7 +4682,7 @@ Uma nuvem azul de fumaça sai de sua ponta. É um gênio!","{catname} 伸出{his
 EVENT_ANODDLAMP_REW2_M,,,,,,,,
 EVENT_ANODDLAMP_REW2_F,,,,,,,,
 EVENT_ANODDLAMP_REW2_N,,,,,,,,
-EVENT_ANODDLAMP_REW3,"隊伍看著{catname}伸手笨拙地用{his}爪子揉燈……
+EVENT_ANODDLAMP_REW3,"隊伍看著{catname}笨拙地用{his}爪子揉燈……
 
 其他貓嘲笑{catname}出醜！",,"El grupo observa cómo {catname} alarga la pata y se pone a frotar la lámpara con torpeza.
 
@@ -4692,7 +4692,7 @@ En voyant {catname} se tourner en ridicule, les autres gloussent de rire&nbsp;!"
 
 Die anderen Katzen lachen {catname} aus, dass {he} sich so zum Affen macht!",,"O grupo observa enquanto {catname} estende a pata e esfrega desajeitadamente a lâmpada com suas patas...
 
-Os outros gatos riem da tolice de {catname}!","隊伍看著{catname}伸手笨拙地用{his}爪子揉燈……
+Os outros gatos riem da tolice de {catname}!","隊伍看著{catname}笨拙地用{his}爪子揉燈……
 
 其他貓嘲笑{catname}出醜！"
 EVENT_ANODDLAMP_REW3_M,,,,,,"Il gruppo osserva mentre {catname} inizia a strofinare maldestramente la lampada con le zampe...
@@ -5346,9 +5346,9 @@ Embora desgastado pelo tempo, o mecanismo de travamento parece seguro.","{catnam
 EVENT_SAFE_QUES_M,,,,,,,,
 EVENT_SAFE_QUES_F,,,,,,,,
 EVENT_SAFE_QUES_N,,,,,,,,
-EVENT_SAFE_REW1,隨著*【i】咔嗒【/i】*一聲，保險櫃開啟了，{catname} 為{his}的成就感到滿意地咕嚕起來！,,"Con un [i]clic[/i], la caja fuerte se abre ¡y {catname} ronronea de satisfacción por su logro!
+EVENT_SAFE_REW1,隨著*[i]咔嗒[/i]*一聲，保險櫃開啟了，{catname} 為{his}的成就感到滿意地咕嚕起來！,,"Con un [i]clic[/i], la caja fuerte se abre ¡y {catname} ronronea de satisfacción por su logro!
 ","Après un *[i]clic[/i]* audible, le coffre s'ouvre en grand et {catname} ronronne de triomphe suite à tel accomplissement&nbsp;!","Ein sanftes *[i]Klick[/i]* ertönt und die Tresortür öffnet sich. {catname} schnurrt zufrieden und freut sich über {his}e Errungenschaft!
-","Con un *[i]click[/i]* la cassaforte si spalanca, e {catname} fa le fusa in segno di trionfo per il proprio successo!","Com um *[i]clique[/i]*, o cofre se abre e {catname} ronrona triunfante por sua conquista!",隨著*【i】咔嗒【/i】*一聲，保險櫃開啟了，{catname} 為{his}的成就感到滿意地咕嚕起來！
+","Con un *[i]click[/i]* la cassaforte si spalanca, e {catname} fa le fusa in segno di trionfo per il proprio successo!","Com um *[i]clique[/i]*, o cofre se abre e {catname} ronrona triunfante por sua conquista!",隨著*[i]咔嗒[/i]*一聲，保險櫃開啟了，{catname} 為{his}的成就感到滿意地咕嚕起來！
 EVENT_SAFE_REW1_M,,,,,,,,
 EVENT_SAFE_REW1_F,,,,,,,,
 EVENT_SAFE_REW1_N,,,,,,,,
@@ -5453,7 +5453,7 @@ EVENT_BOTTLEOFUNKNOWNLIQUID_REW3_F,,,,,,,,
 EVENT_BOTTLEOFUNKNOWNLIQUID_REW3_N,,,,,,,,
 EVENT_BOTTLEOFUNKNOWNLIQUID_REW4,"{catname} 正要拿起瓶子，卻被憤怒的喊叫聲和巨大雷鳴般的腳步聲打斷！
 
-【i】“那是我的垃圾！”【/i】
+[i]"那是我的垃圾！"[/i]
 
 {catname} 驚慌失措逃跑！",,"{catname} va a coger la botella, pero oye una voz furiosa que grita bien fuerte, acompañada de pasos que se acercan retumbando.
 
@@ -5473,7 +5473,7 @@ EVENT_BOTTLEOFUNKNOWNLIQUID_REW4,"{catname} 正要拿起瓶子，卻被憤怒的
 
 {catname} entra em pânico e foge!","{catname} 正要拿起瓶子，卻被憤怒的喊叫聲和巨大雷鳴般的腳步聲打斷！
 
-【i】“那是我的垃圾！”【/i】
+[i]"那是我的垃圾！"[/i]
 
 {catname} 驚慌失措逃跑！"
 EVENT_BOTTLEOFUNKNOWNLIQUID_REW4_M,,,,,,"{catname} sta per afferrare la bottiglia, ma viene interrotto da un urlo rabbioso e da un rumore fragoroso di passi in avvicinamento!
@@ -5532,7 +5532,7 @@ EVENT_BOTTLEOFUNKNOWNLIQUID_REW6_N,,,,,,,,
 EVENT_SOMEKINDOFPINATA_NAME,某種彩罐,,Una especie de piñata,Espèce de Piñata,So etwas wie eine Piñata,Una Specie di Pignatta,Uma Espécie de Piñata,某種彩罐
 EVENT_SOMEKINDOFPINATA_QUES,"{catname} 發現了某種彩罐。
 
-打擊一個毛絨貓玩偶感覺怪怪的……不過{he}乾脆試試看？",updated ✔️,"{catname} encuentra una especie de piñata.
+敲打一個毛絨貓玩偶感覺怪怪的……不過{he}乾脆試試看？",updated ✔️,"{catname} encuentra una especie de piñata.
 
 Eso de darle palos a un gato lleno de cosas es un poco raro, pero decide aprovechar la oportunidad.","{catname} trouve un genre de piñata.
 
@@ -5544,7 +5544,7 @@ C'è qualcosa di strano nel colpire un gatto imbottito... ma magari potrebbe com
 
 Há algo estranho em bater num gato de pelúcia... mas por que não tentar?","{catname} 發現了某種彩罐。
 
-打擊一個毛絨貓玩偶感覺怪怪的……不過{he}乾脆試試看？"
+敲打一個毛絨貓玩偶感覺怪怪的……不過{he}乾脆試試看？"
 EVENT_SOMEKINDOFPINATA_QUES_M,,,,,,,,
 EVENT_SOMEKINDOFPINATA_QUES_F,,,,,,,,
 EVENT_SOMEKINDOFPINATA_QUES_N,,,,,,,,
@@ -5806,11 +5806,11 @@ EVENT_DECAYINGCARCASS_NAME,腐爛的屍體,,Cadáver en descomposición,Carcasse
 EVENT_DECAYINGCARCASS_QUES,{catname} 發現了一具已死多時生物的腐爛殘骸。它似乎在微微移動，但 {he} 認為那可能只是無數昆蟲在慢慢啃食它。,,"{catname} se encuentra con los restos en descomposición de una criatura que lleva tiempo muerta. Parece moverse levemente, pero {catname} piensa que deben de ser los numerosos insectos que la devoran lentamente.","{catname} trouve les restes décomposés d'une créature morte depuis bien longtemps. Elle semble légèrement se mouvoir, mais {catname} se rend finalement compte qu'il s'agit en fait des innombrables insectes qui la dévorent à petit feu depuis tout ce temps.","{catname} entdeckt die verwesenden Überreste einer inzwischen unerkenntlichen Kreatur. Bei genauerem Hinsehen scheint sie sich ein wenig zu bewegen, aber wahrscheinlich waren das nur die etlichen Insekten, die sich an ihrem Fleisch laben.","{catname} si imbatte nei resti putrefatti di una creatura morta da tempo. Sembra muoversi leggermente, ma {catname} pensa che possa essere dovuto ai numerosi insetti che la stanno lentamente divorando.","{catname} se depara com os restos mortais em decomposição de uma criatura morta há muito tempo. Ela parece se mover levemente, mas talvez sejam apenas os inúmeros insetos a devorando lentamente.",{catname} 發現了一具已死多時生物的腐爛殘骸。它似乎在微微移動，但 {he} 認為那可能只是無數昆蟲在慢慢啃食它。
 EVENT_DECAYINGCARCASS_QUES_M,,,,,,,,
 EVENT_DECAYINGCARCASS_QUES_F,,,,,,,,
-EVENT_DECAYINGCARCASS_QUES_N,{catname} 發現了一具已死多時生物的腐爛殘骸。它似乎在微微移動，但 they 認為那可能只是無數昆蟲在慢慢啃食它。,,"{catname} se encuentra con los restos en descomposición de una criatura que lleva tiempo muerta. Parece moverse levemente, pero {catname} piensa que deben de ser los numerosos insectos que la devoran lentamente.",,"{catname} entdeckt die verwesenden Überreste einer inzwischen unerkenntlichen Kreatur. Bei genauerem Hinsehen scheint sie sich ein wenig zu bewegen, aber wahrscheinlich waren das nur die etlichen Insekten, die sich an ihrem Fleisch laben.",,,{catname} 發現了一具已死多時生物的腐爛殘骸。它似乎在微微移動，但 they 認為那可能只是無數昆蟲在慢慢啃食它。
+EVENT_DECAYINGCARCASS_QUES_N,{catname} 發現了一具已死多時生物的腐爛殘骸。它似乎在微微移動，但 {he} 認為那可能只是無數昆蟲在慢慢啃食它。,,"{catname} se encuentra con los restos en descomposición de una criatura que lleva tiempo muerta. Parece moverse levemente, pero {catname} piensa que deben de ser los numerosos insectos que la devoran lentamente.",,"{catname} entdeckt die verwesenden Überreste einer inzwischen unerkenntlichen Kreatur. Bei genauerem Hinsehen scheint sie sich ein wenig zu bewegen, aber wahrscheinlich waren das nur die etlichen Insekten, die sich an ihrem Fleisch laben.",,,{catname} 發現了一具已死多時生物的腐爛殘骸。它似乎在微微移動，但 {he} 認為那可能只是無數昆蟲在慢慢啃食它。
 EVENT_DECAYINGCARCASS_REW1,{catname} 的眼睛閃著光，{he} 捕捉到腐敗的氣味。被氣味吸引，{he} 俯身咬向腐爛的肉體……,eat good,A {catname} le brillan los ojos cuando huele el seductor aroma a descomposición. Se acerca y muerde la carne podrida.,{catname} a une lueur dans les yeux. {He} repère l'odeur de pourriture. L'odeur l'attire et {catname} se penche pour mordre dans la chair en décomposition...,"Die Augen von {catname} blitzen auf, als der Geruch von Verwesung in {his}e Nase steigt. {He} ist wie verzaubert von dem Aroma und beißt genüsslich in das Fleisch&nbsp;…",,"Os olhos de {catname} brilham ao sentir o cheiro da decomposição. Sentindo a atração do odor, {catname} se inclina e morde a carne em decomposição...",{catname} 的眼睛閃著光，{he} 捕捉到腐敗的氣味。被氣味吸引，{he} 俯身咬向腐爛的肉體……
 EVENT_DECAYINGCARCASS_REW1_M,,,,,,"Gli occhi di {catname} brillano non appena avverte l'odore di decomposizione. Attirato dall'odore, si china e morde la carne putrescente...",,
 EVENT_DECAYINGCARCASS_REW1_F,,,,,,"Gli occhi di {catname} brillano non appena avverte l'odore di decomposizione. Attirata dall'odore, si china e morde la carne putrescente...",,
-EVENT_DECAYINGCARCASS_REW1_N,{catname} 的眼睛閃著光，they 捕捉到腐敗的氣味。被氣味吸引，they 俯身咬向腐爛的肉體……,,A {catname} le brillan los ojos cuando huele el seductor aroma a descomposición. Se acerca y muerde la carne podrida.,,Die Augen von {catname} blitzen bei dem Geruch von Verwesung auf. Wie verzaubert von dem Aroma beißt {catname} genüsslich in das Fleisch&nbsp;…,"Gli occhi di {catname} brillano non appena avverte l'odore di decomposizione. Non resistendo all'odore, si china e morde la carne putrescente...",,{catname} 的眼睛閃著光，they 捕捉到腐敗的氣味。被氣味吸引，they 俯身咬向腐爛的肉體……
+EVENT_DECAYINGCARCASS_REW1_N,{catname} 的眼睛閃著光，{he} 捕捉到腐敗的氣味。被氣味吸引，{he} 俯身咬向腐爛的肉體……,,A {catname} le brillan los ojos cuando huele el seductor aroma a descomposición. Se acerca y muerde la carne podrida.,,Die Augen von {catname} blitzen bei dem Geruch von Verwesung auf. Wie verzaubert von dem Aroma beißt {catname} genüsslich in das Fleisch&nbsp;…,"Gli occhi di {catname} brillano non appena avverte l'odore di decomposizione. Non resistendo all'odore, si china e morde la carne putrescente...",,{catname} 的眼睛閃著光，{he} 捕捉到腐敗的氣味。被氣味吸引，{he} 俯身咬向腐爛的肉體……
 EVENT_DECAYINGCARCASS_REW2,{catname} 大快朵頤，已經有一段時間沒吃東西了。{He} 短暫感到陣陣瘙癢，隨後是一股能量湧現！,eat good rare,{catname} se da un festín con la carne maloliente; llevaba bastante tiempo sin comer. Nota un breve cosquilleo ¡y luego un subidón de energía!,"{catname} se repaît de la chair odorante. Son dernier repas remonte à longtemps. {He} ressent pendant de brefs instants une sensation de démangeaison, puis une montée d'énergie&nbsp;!","{catname} schluckt mehrere Bissen des reifen Fleischs herunter. {His}e letzte Mahlzeit ist schon etwas her. Plötzlich juckt kurz etwas in {his}em Hals, doch dann fühlt {he} sich auf einmal erfrischt!","{catname} banchetta con la carne maleodorante. È passato molto tempo dal suo ultimo pasto. Avverte una breve sensazione di prurito, poi un'ondata di energia!","{catname} faz um banquete com a carne madura. Já faz um tempo desde sua última refeição. Logo é possível sentir uma breve coceira, seguida por uma onda de energia!",{catname} 大快朵頤，已經有一段時間沒吃東西了。{He} 短暫感到陣陣瘙癢，隨後是一股能量湧現！
 EVENT_DECAYINGCARCASS_REW2_M,,,,,,,,
 EVENT_DECAYINGCARCASS_REW2_F,,,,,,,,
@@ -5838,7 +5838,7 @@ EVENT_DECAYINGCARCASS_REW7_N,,,,,,,,
 EVENT_DECAYINGCARCASS_REW8,{catname} 挖掘腐爛的肉和裸露的骨頭，尋找有價值的東西。手臂深入其中時，{he} 感覺有什麼東西抓住了 {him}……,loot bad rare,"{catname} escarba en la carne en descomposición y los huesos expuestos en busca de algo de valor. Cuando tiene la pata metida hasta el fondo, nota que algo se le agarra...","{catname} creuse la chair en décomposition autour des os apparents à la recherche d'un objet de valeur. La patte profondément enfouie dans cette masse, {he} sent que quelque chose s'accroche à {him}...","{catname} wühlt sich durch das verweste Fleisch und die freigelegten Knochen und sucht nach etwas Wertvollem. {His} Arm steckt tief in der Kreatur, als {he} plötzlich spürt, wie sich etwas festbeißt&nbsp;…","{catname} scava nella carne decomposta e tra le ossa esposte, in cerca di qualcosa di valore. Infila la zampa fino in fondo e sente qualcosa che l'afferra...","{catname} escava a carne em decomposição e os ossos expostos, procurando por algo valioso. Com o braço mergulhado na massa, algo se agarra em sua pata...",{catname} 挖掘腐爛的肉和裸露的骨頭，尋找有價值的東西。手臂深入其中時，{he} 感覺有什麼東西抓住了 {him}……
 EVENT_DECAYINGCARCASS_REW8_M,,,,,,,,
 EVENT_DECAYINGCARCASS_REW8_F,,,,,,,,
-EVENT_DECAYINGCARCASS_REW8_N,{catname} 挖掘腐爛的肉和裸露的骨頭，尋找有價值的東西。手臂深入其中時，they 感覺有什麼東西抓住了 them……,,"{catname} escarba en la carne en descomposición y los huesos expuestos en busca de algo de valor. Cuando tiene la pata metida hasta el fondo, nota que algo se le agarra...",,{catname} wühlt sich durch das verweste Fleisch und die freigelegten Knochen und sucht nach etwas Wertvollem. Mit dem Arm tief in der Kreatur beißt sich plötzlich etwas an ihm fest&nbsp;…,,,{catname} 挖掘腐爛的肉和裸露的骨頭，尋找有價值的東西。手臂深入其中時，they 感覺有什麼東西抓住了 them……
+EVENT_DECAYINGCARCASS_REW8_N,{catname} 挖掘腐爛的肉和裸露的骨頭，尋找有價值的東西。手臂深入其中時，{he} 感覺有什麼東西抓住了 {him}……,,"{catname} escarba en la carne en descomposición y los huesos expuestos en busca de algo de valor. Cuando tiene la pata metida hasta el fondo, nota que algo se le agarra...",,{catname} wühlt sich durch das verweste Fleisch und die freigelegten Knochen und sucht nach etwas Wertvollem. Mit dem Arm tief in der Kreatur beißt sich plötzlich etwas an ihm fest&nbsp;…,,,{catname} 挖掘腐爛的肉和裸露的骨頭，尋找有價值的東西。手臂深入其中時，{he} 感覺有什麼東西抓住了 {him}……
 EVENT_DECAYINGCARCASS_REW9,{catname} 在屍體周圍徘徊，皺起鼻子對惡臭感到厭惡，沒有發現任何值得注意的東西。,examine good,"Con la nariz arrugada por el olor nauseabundo, {catname} rodea el cadáver, pero no ve nada destacable.",{catname} fait le tour de la carcasse. L'odeur lui fait plisser la truffe et {he} ne semble rien remarquer de particulier.,{catname} geht vorsichtig um den Kadaver herum. Der Geruch ist beinahe unerträglich und {catname} kann nichts Auffälliges sehen.,"{catname} gira intorno alla carcassa, chiudendo le narici per via dell'odore di marcio, e non vede nulla degno di nota.","{catname} circula a carcaça, franzindo o nariz com o odor fétido, mas não vê nada de interessante.",{catname} 在屍體周圍徘徊，皺起鼻子對惡臭感到厭惡，沒有發現任何值得注意的東西。
 EVENT_DECAYINGCARCASS_REW9_M,,,,,,,,
 EVENT_DECAYINGCARCASS_REW9_F,,,,,,,,
@@ -16098,7 +16098,7 @@ EVENT_STUCKCORPSE_REW7_F,,,,,,,,
 EVENT_STUCKCORPSE_REW7_N,,,,,,,,
 EVENT_STUCKCORPSE_REW8,"{catname} 把屍體從洞裡拉出來。
 
-看著現在暢通無阻的洞口，它看起來形狀奇怪……",,"{catname} saca el cadáver del agujero.
+看著現在空出來的洞口，它的形狀看起來有些奇怪……",,"{catname} saca el cadáver del agujero.
 
 Ahora que no hay nada obstruyéndolo, advierte que tiene una forma curiosa...","{catname} extirpe le cadavre du trou.
 
@@ -16110,7 +16110,7 @@ Guardandola ora che è vuota, la fossa sembra avere una strana forma...","{catna
 
 Olhando para o buraco agora vazio, ele parece ter um formato estranho...","{catname} 把屍體從洞裡拉出來。
 
-看著現在暢通無阻的洞口，它看起來形狀奇怪……"
+看著現在空出來的洞口，它的形狀看起來有些奇怪……"
 EVENT_STUCKCORPSE_REW8_M,,,,,,,,
 EVENT_STUCKCORPSE_REW8_F,,,,,,,,
 EVENT_STUCKCORPSE_REW8_N,,,,,,,,
@@ -17892,7 +17892,7 @@ A escuridão é quebrada pelo brilho suave da luz que se espalha pelas paredes d
 EVENT_MYSTERIOUSCAVE1_REW1_M,,,,,,,,
 EVENT_MYSTERIOUSCAVE1_REW1_F,,,,,,,,
 EVENT_MYSTERIOUSCAVE1_REW1_N,,,,,,,,
-EVENT_MYSTERIOUSCAVE1_REW2,"{catname} 感覺自己註定要走這條路！
+EVENT_MYSTERIOUSCAVE1_REW2,"{catname} 感覺走上這條路是命中註定！
 
 {He} 輕鬆地沿峽谷緩降，好像已經做過一千次一樣……",,"¡{catname} siente que recorrer este camino era su destino!
 
@@ -17904,7 +17904,7 @@ Baja por la sima sin esfuerzo haciendo rápel como si lo hubiera hecho mil veces
 
 Si cala giù per la voragine senza sforzo, come se lo avesse già fatto migliaia di volte in passato...","{catname} sente como se trilhar este caminho fosse seu destino!
 
-{catname} desce o abismo de rapel sem esforço, como se já tivesse feito isso mil vezes antes...","{catname} 感覺自己註定要走這條路！
+{catname} desce o abismo de rapel sem esforço, como se já tivesse feito isso mil vezes antes...","{catname} 感覺走上這條路是命中註定！
 
 {He} 輕鬆地沿峽谷緩降，好像已經做過一千次一樣……"
 EVENT_MYSTERIOUSCAVE1_REW2_M,,,,,,,,
@@ -17944,7 +17944,7 @@ Le da tanto miedo que vuelve a trepar por la cuerda tan rápido como puede ¡y h
 {catname} klettert das Seil schnell wieder hinauf und rennt verängstigt aus der Höhle!",,,"聲音在下面的洞穴中迴響，{catname} 聽到了他們父親嚴厲的聲音！
 
 他們急忙爬回繩索並恐懼地逃離洞穴！"
-EVENT_MYSTERIOUSCAVE1_REW4,"奇怪的聲音和聲音充滿了洞穴，{catname} 的腦海充滿了混亂！
+EVENT_MYSTERIOUSCAVE1_REW4,"奇怪的聲響和話語充滿了洞穴，{catname} 的腦海充滿了混亂！
 
 {He} 急忙逃到洞穴外的安全地方，明顯被恐懼震懾。",,"La cueva se llena de voces y sonidos extraños ¡y el caos invade la mente de {catname}!
 
@@ -17958,12 +17958,12 @@ Huye de la cueva a toda prisa, temblando de miedo.
 
 {catname} risale affannosamente al sicuro fuori dalla caverna, tremando visibilmente dalla paura.","Sons e vozes estranhas ecoam pela caverna e a mente de {catname} se enche de caos!
 
-{catname} corre para fora da caverna em busca de segurança, com o espírito visivelmente abalado pelo medo.","奇怪的聲音和聲音充滿了洞穴，{catname} 的腦海充滿了混亂！
+{catname} corre para fora da caverna em busca de segurança, com o espírito visivelmente abalado pelo medo.","奇怪的聲響和話語充滿了洞穴，{catname} 的腦海充滿了混亂！
 
 {He} 急忙逃到洞穴外的安全地方，明顯被恐懼震懾。"
 EVENT_MYSTERIOUSCAVE1_REW4_M,,,,,,,,
 EVENT_MYSTERIOUSCAVE1_REW4_F,,,,,,,,
-EVENT_MYSTERIOUSCAVE1_REW4_N,"奇怪的聲音和聲音充滿了洞穴，{catname} 的腦海充滿了混亂！
+EVENT_MYSTERIOUSCAVE1_REW4_N,"奇怪的聲響和話語充滿了洞穴，{catname} 的腦海充滿了混亂！
 
 他們急忙逃到洞穴外的安全地方，明顯被恐懼震懾。",,"La cueva se llena de voces y sonidos extraños ¡y el caos invade la mente de {catname}!
 
@@ -17971,7 +17971,7 @@ Huye de la cueva a toda prisa, temblando de miedo.
 ",,"Merkwürdige Geräusche und Stimmen erfüllen die Höhle und {catname} wird ganz verwirrt!
 
 {catname} rennt zurück in die Sicherheit der Außenwelt und sichtlich verängstigt.
-",,,"奇怪的聲音和聲音充滿了洞穴，{catname} 的腦海充滿了混亂！
+",,,"奇怪的聲響和話語充滿了洞穴，{catname} 的腦海充滿了混亂！
 
 他們急忙逃到洞穴外的安全地方，明顯被恐懼震懾。"
 EVENT_MYSTERIOUSCAVE1_REW5,"{catname} 透過繩索向下面的黑暗深淵望去……
@@ -18082,7 +18082,7 @@ EVENT_MYSTERIOUSCAVE2_REW3_F,,,,,,,,
 EVENT_MYSTERIOUSCAVE2_REW3_N,,,,,,,,
 EVENT_MYSTERIOUSCAVE2_REW4,"發光者告訴 {catname} 世界的黑暗和可怕的秘密。
 
-{catname} 血液冰冷，{his} 耳朵翻回了頭骨裡。
+{catname} 血液冰冷，{his} 耳朵緊貼著頭骨。
 
 {He} 本不該聽到那些可怕的話！",,"El ser radiante le cuenta a {catname} terribles y oscuros secretos acerca del mundo.
 
@@ -18108,7 +18108,7 @@ O sangue de {catname} gela e suas orelhas se retraem para dentro do crânio.
 
 Era melhor não ter ouvido aquelas palavras terríveis!","發光者告訴 {catname} 世界的黑暗和可怕的秘密。
 
-{catname} 血液冰冷，{his} 耳朵翻回了頭骨裡。
+{catname} 血液冰冷，{his} 耳朵緊貼著頭骨。
 
 {He} 本不該聽到那些可怕的話！"
 EVENT_MYSTERIOUSCAVE2_REW4_M,,,,,,,,
@@ -18184,7 +18184,7 @@ Ein neuer Mut und Tatendrang erfüllt {catname}. So viele Kämpfe warten in der 
 一股生命的活力和興奮充滿了 {catname}，當他們想到即將到來的戰鬥時！"
 EVENT_MYSTERIOUSCAVE3_REW3,"{catname} 嘗試爬上去，但摔回了底部，摔斷了 {his} 腿！
 
-{He} 笨拙地轉身面對現在又出現在 {him} 面前的發光者……",,"{catname} intenta subir, pero vuelve a caer hasta el fondo ¡y se rompe la pata!
+{He} 尷尬地轉身面對現在又出現在 {him} 面前的發光者……",,"{catname} intenta subir, pero vuelve a caer hasta el fondo ¡y se rompe la pata!
 
 Con cierta incomodidad, se vuelve hacia el ser radiante, que vuelve a encontrarse ante {catname}...
 ","{catname} essaie de remonter en grimpant, mais retombe tout en bas et se brise la jambe&nbsp;!
@@ -18197,7 +18197,7 @@ Goffamente si volta verso il Luminoso, di nuovo al suo cospetto...","{catname} t
 
 {catname} se vira desajeitadamente para o Ser Radiante, que agora está à sua frente novamente...","{catname} 嘗試爬上去，但摔回了底部，摔斷了 {his} 腿！
 
-{He} 笨拙地轉身面對現在又出現在 {him} 面前的發光者……"
+{He} 尷尬地轉身面對現在又出現在 {him} 面前的發光者……"
 EVENT_MYSTERIOUSCAVE3_REW3_M,,,,,,,,
 EVENT_MYSTERIOUSCAVE3_REW3_F,,,,,,,,
 EVENT_MYSTERIOUSCAVE3_REW3_N,"{catname} 嘗試爬上去，但摔回了底部，摔斷了他們的腿！
