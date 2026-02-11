@@ -1,48 +1,36 @@
-# 《Mewgenics》中文汉化补丁  
-# Mewgenics Chinese Translation Patch
+# 《Mewgenics》繁體中文翻譯補丁
+# Mewgenics Traditional Chinese Translation Patch
 
-## 中文说明
+## 說明
 
-本项目提供 **《Mewgenics》中文汉化补丁**，目前已覆盖游戏大部分文本，包括：
+本專案基於 [rainzz-512/Mewgenics-Chinese-Translation](https://github.com/rainzz-512/Mewgenics-Chinese-Translation) 的簡體中文翻譯補丁，進行繁體中文（台灣）轉換與潤飾。
 
-- NPC 对话  
-- 物品与技能说明  
-- UI 界面文本  
-- 主要游戏内容文本  
+### 轉換流程
+1. **OpenCC s2twp 自動轉換**：將簡體中文字形與詞彙轉換為台灣繁體中文
+2. **Claude AI 輔助審校**：逐檔人工審校，修正 OpenCC 誤轉、統一遊戲術語、潤飾不自然的翻譯
 
-本补丁采用 **AI 辅助翻译 + 游戏内测试校对** 的方式制作，后续版本将持续优化翻译质量与术语统一。  
-欢迎提交反馈和修正建议。
+### 安裝方式
+安裝方式與原始補丁相同，請參考原始專案的說明：
+[https://github.com/rainzz-512/Mewgenics-Chinese-Translation](https://github.com/rainzz-512/Mewgenics-Chinese-Translation)
 
-### 安装方法
-1. 在 **Releases** 页面下载最新补丁  
-2. 将补丁中的 `data` 文件夹解压到游戏目录（与 `resources.gpak` 同级）  
-3. 覆盖同名文件  
-4. 启动游戏即可显示中文
-
-### 注意
-- 当前为早期版本，可能仍存在少量未翻译文本  
-- 若游戏更新导致文本失效，请等待补丁更新
+### 致謝
+- 原始簡體中文翻譯：[rainzz-512](https://github.com/rainzz-512/Mewgenics-Chinese-Translation)
+- 繁體中文轉換與審校：Claude (Anthropic)
 
 ---
 
 ## English
 
-This project provides a **Chinese translation patch for Mewgenics**, covering most in-game texts including:
+This project is a **Traditional Chinese (Taiwan)** adaptation of the [Mewgenics Chinese Translation Patch](https://github.com/rainzz-512/Mewgenics-Chinese-Translation) by rainzz-512.
 
-- NPC dialogues  
-- Items and abilities  
-- UI texts  
-- General gameplay text  
-
-The translation is created using **AI-assisted translation and in-game testing**, and future updates will continue to improve translation quality and terminology consistency.  
-Feedback and correction suggestions are welcome.
+### Conversion Process
+1. **OpenCC s2twp conversion**: Automated Simplified → Traditional Chinese (Taiwan) character and vocabulary conversion
+2. **Claude AI-assisted review**: File-by-file manual review to fix conversion errors, unify game terminology, and polish translations
 
 ### Installation
-1. Download the latest patch from **Releases**  
-2. Extract the `data` folder into the game directory (the same location as `resources.gpak`)  
-3. Overwrite files if prompted  
-4. Launch the game — the text should now appear in Chinese
+Same as the original patch. See the original project for instructions:
+[https://github.com/rainzz-512/Mewgenics-Chinese-Translation](https://github.com/rainzz-512/Mewgenics-Chinese-Translation)
 
-### Notes
-- This is an early release; some lines may remain untranslated  
-- If a game update breaks the patch, please wait for a new version
+### Credits
+- Original Simplified Chinese translation: [rainzz-512](https://github.com/rainzz-512/Mewgenics-Chinese-Translation)
+- Traditional Chinese conversion and review: Claude (Anthropic)
