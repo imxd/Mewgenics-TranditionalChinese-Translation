@@ -51,7 +51,7 @@ KEYWORD_BODYGUARD_DESC,下次盟友成為攻擊目標時，先與其交換位置
 KEYWORD_BOUNTY_NAME,賞金,,Recompensa,Prime,Kopfgeld,Taglia,Recompensa,賞金
 KEYWORD_BOUNTY_DESC,受到額外 25% 的傷害。如果被擊殺，獲得 {stacks} 枚金幣。,,"Sufre un 25 % de daño extra. Si muere, obtiene {stacks} monedas.","Vous subissez +25&nbsp;% de dégâts. K.O., vous obtenez {stacks} pièces.","Erleidet 25&nbsp;% zusätzlichen Schaden. Erhalte {stacks}&nbsp;Münzen, wenn die Einheit stirbt.","Subisce il 25% di danno aggiuntivo. Se muore, guadagni {stacks} monete.","Sofre 25% de dano adicional. Ao morrer, obtenha {stacks} moedas.",受到額外 25% 的傷害。如果被擊殺，獲得 {stacks} 枚金幣。
 KEYWORD_BOUNTY_DESC_STACKLESS,受到額外 25% 的傷害。如果被擊殺，獲得金幣。,,"Sufre un 25 % de daño extra. Si muere, obtiene monedas.","Vous subissez +25&nbsp;% de dégâts. K.O., vous obtenez des pièces.","Erleidet 25&nbsp;% zusätzlichen Schaden. Erhalte Münzen, wenn die Einheit stirbt.","Subisce il 25% di danno aggiuntivo. Se muore, guadagni monete.","Sofre 25% de dano adicional. Ao morrer, obtenha moedas.",受到額外 25% 的傷害。如果被擊殺，獲得金幣。
-KEYWORD_BRACE_NAME,蓄勢待發,,Refuerzo,Garde,Wappnen,Guardia,Preparação,蓄勢待發
+KEYWORD_BRACE_NAME,護甲,,Refuerzo,Garde,Wappnen,Guardia,Preparação,護甲
 KEYWORD_BRACE_DESC,從所有來源減少 {stacks} 點傷害。,,Sufre {stacks} menos de daño de todos los ataques.,Les dégâts que vous subissez diminuent de {stacks}.,Erleidet von allen Quellen {stacks}&nbsp;Schaden weniger.,Subisce {stacks} di danno in meno da tutte le fonti.,Sofre {stacks} a menos de dano de todas as fontes.,從所有來源減少 {stacks} 點傷害。
 KEYWORD_BRACE_DESC_STACKLESS,減少所有受到的傷害。,,Reduce todo el daño sufrido.,Réduit tous les dégâts que vous subissez.,Reduziert sämtlichen erhaltenen Schaden.,Riduce tutto il danno in arrivo.,Reduz todo o dano sofrido.,減少所有受到的傷害。
 KEYWORD_BRUISE_NAME,淤傷,,Moratón,Contusion,Beulen,Livido,Contusão,淤傷
@@ -525,9 +525,9 @@ KEYWORD_ELITE_REACTIVE_DESC,+1 動能尖刺,,+1 de pinchos cinéticos,Pics ciné
 KEYWORD_ELITE_DAMAGING_NAME,精英增益：傷害,,Ventaja de élite: Daño,Bonus d'élite&nbsp;: Férocité,Elite-Stärkung: Schädigend,Bonus Élite: Danno,Reforço de Elite: Dano,精英增益：傷害
 KEYWORD_ELITE_DAMAGING_DESC,+2 傷害,,+2 de daño,Dégâts +2.,+2&nbsp;Schaden,+2 al Danno,+2 de dano,+2 傷害
 KEYWORD_ELITE_TOUGH_NAME,精英增益：堅韌,,Ventaja de élite: Resistencia,Bonus d'élite&nbsp;: Robustesse,Elite-Stärkung: Zäh,Bonus Élite: Resistenza,Reforço de Elite: Resistência,精英增益：堅韌
-KEYWORD_ELITE_TOUGH_DESC,+2 蓄勢待發,,+2 de refuerzo,Garde +2.,+2&nbsp;Wappnen,+2 alla Guardia,+2 de preparação,+2 蓄勢待發
+KEYWORD_ELITE_TOUGH_DESC,+2 護甲,,+2 de refuerzo,Garde +2.,+2&nbsp;Wappnen,+2 alla Guardia,+2 de preparação,+2 護甲
 KEYWORD_ELITE_BOSSTOUGH_NAME,精英增益：堅韌,,Ventaja de élite: Resistencia,Bonus d'élite&nbsp;: Robustesse,Elite-Stärkung: Zäh,Bonus Élite: Resistenza,Reforço de Elite: Resistência,精英增益：堅韌
-KEYWORD_ELITE_BOSSTOUGH_DESC,+1 蓄勢待發,,+1 de refuerzo,Garde +1.,+1&nbsp;Wappnen,+1 alla Guardia,+1 de preparação,+1 蓄勢待發
+KEYWORD_ELITE_BOSSTOUGH_DESC,+1 護甲,,+1 de refuerzo,Garde +1.,+1&nbsp;Wappnen,+1 alla Guardia,+1 de preparação,+1 護甲
 KEYWORD_ELITE_SHIELDED1_NAME,精英增益：護盾,,Ventaja de élite: Escudo,Bonus d'élite&nbsp;: Blindage,Elite-Stärkung: Schild,Bonus Élite: Scudo,Reforço de Elite: Escudo,精英增益：護盾
 KEYWORD_ELITE_SHIELDED1_DESC,每回合開始時，如果它的 [img:shield] 少於 3，則將 [img:shield] 設為 3。-20% 最大生命值。,,"Al inicio de cada ronda, si tiene menos de 3 [img:shield], se establece [img:shield] en 3. Pierde un 20 % del máximo de salud.","Au début de chaque manche, si l'unité a moins de [img:shield] 3, [img:shield] devient 3. PV max. -20&nbsp;%.","Wenn diese Einheit am Anfang der Runde weniger als 3&nbsp;[img:shield] hat, wird ihr [img:shield] auf 3 gesetzt. -20&nbsp;% max. LP.","All'inizio di ogni round, se ha meno di 3 allo [img:shield], imposta lo [img:shield] a 3. -20% salute massima.","No início de cada rodada, se possuir menos de 3 de [img:shield], define o [img:shield] para 3. -20% de saúde máx.",每回合開始時，如果它的 [img:shield] 少於 3，則將 [img:shield] 設為 3。-20% 最大生命值。
 KEYWORD_ELITE_BOSSSHIELDED1_NAME,精英增益：護盾,,Ventaja de élite: Escudo,Bonus d'élite&nbsp;: Blindage,Elite-Stärkung: Schild,Bonus Élite: Scudo,Reforço de Elite: Escudo,精英增益：護盾

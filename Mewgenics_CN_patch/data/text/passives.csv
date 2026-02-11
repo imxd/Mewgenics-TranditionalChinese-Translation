@@ -1033,8 +1033,8 @@ Unidades empurradas por você empurram outras unidades mais longe.","你的普�
 你造成的所有擊退效果增加2且造成額外+1點傷害。
 你擊退的單位會進一步擊退其他單位。"
 PASSIVE_PROTECTIVE_NAME,防護,,Amparo,Égide,Beschützerisch,Protezione,Proteção,防護
-PASSIVE_PROTECTIVE_DESC,你的盟友擁有蓄勢待發 1。,,Los aliados obtienen 1 de refuerzo.,Vos alliés bénéficient de Garde&nbsp;+1.,Deine Verbündeten erhalten Wappnen&nbsp;1.,I tuoi alleati hanno Guardia 1.,Seus aliados possuem preparação 1.,你的盟友擁有蓄勢待發 1。
-PASSIVE_PROTECTIVE2_DESC,你的盟友擁有蓄勢待發 2。,,Los aliados obtienen 2 de refuerzo.,Vos alliés bénéficient de Garde&nbsp;+2.,Deine Verbündeten erhalten Wappnen&nbsp;2.,I tuoi alleati hanno Guardia 2.,Seus aliados possuem preparação 2.,你的盟友擁有蓄勢待發 2。
+PASSIVE_PROTECTIVE_DESC,你的盟友擁有護甲 1。,,Los aliados obtienen 1 de refuerzo.,Vos alliés bénéficient de Garde&nbsp;+1.,Deine Verbündeten erhalten Wappnen&nbsp;1.,I tuoi alleati hanno Guardia 1.,Seus aliados possuem preparação 1.,你的盟友擁有護甲 1。
+PASSIVE_PROTECTIVE2_DESC,你的盟友擁有護甲 2。,,Los aliados obtienen 2 de refuerzo.,Vos alliés bénéficient de Garde&nbsp;+2.,Deine Verbündeten erhalten Wappnen&nbsp;2.,I tuoi alleati hanno Guardia 2.,Seus aliados possuem preparação 2.,你的盟友擁有護甲 2。
 PASSIVE_WRESTLEMANIAC_NAME,摔跤狂人,,Lucha libre,Fan de catch,Wrestlemaniac,Wrestlemania,Luta-Livre,摔跤狂人
 PASSIVE_WRESTLEMANIAC_DESC,"當你鄰近敵人時，你的普通攻擊會變成摔投。
 你獲得投擲技能。",,"El ataque básico se convierte en Súplex cuando está junto a enemigos.
